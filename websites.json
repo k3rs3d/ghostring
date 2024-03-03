@@ -181,5 +181,13 @@
 		"about": "Horror comic writer/ illustrator, we have spooks, specters, old men and my unsolicited opinion on things",
 		"url": "https://swampgremlin.neocities.org/",
 		"owner": "https://neocities.org/site/swampgremlin/"
+	},
+	
+	{
+		"name": "GHOST HOUSE",
+		"slug": "ghosthoused",
+		"about": "a text-based haunted house adventure story",
+		"url": "https://ghost-house.neocities.org/",
+		"owner": "ratnukegenius@gmail.com"
 	}
 ]
