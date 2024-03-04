@@ -189,5 +189,13 @@
 		"about": "a text-based haunted house adventure story",
 		"url": "https://ghost-house.neocities.org/",
 		"owner": "ratnukegenius@gmail.com"
+	},
+	
+	{
+		"name": "sammylux",
+		"slug": "sammylux",
+		"about": "I'm a trad goth, an artist, a horror lover. I post about anything that interests me, I maintain an art gallery and I try to learn html :-)",
+		"url": "https://sammylux.neocities.org/",
+		"owner": "https://neocities.org/site/sammylux"
 	}
 ]
