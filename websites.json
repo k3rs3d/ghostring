@@ -197,5 +197,13 @@
 		"about": "I'm a trad goth, an artist, a horror lover. I post about anything that interests me, I maintain an art gallery and I try to learn html :-)",
 		"url": "https://sammylux.neocities.org/",
 		"owner": "https://neocities.org/site/sammylux"
+	},
+	
+	{
+		"name": "The Cabinet of Curiosities",
+		"slug": "curiosity_cabinet",
+		"about": "I'm an author and aspiring novelist, my work focusing on the horrifying, the taboo, and all things macabre!",
+		"url": "https://slysable.neocities.org/",
+		"owner": "https://neocities.org/site/slysable/"
 	}
 ]
