@@ -205,5 +205,14 @@
 		"about": "I'm an author and aspiring novelist, my work focusing on the horrifying, the taboo, and all things macabre!",
 		"url": "https://slysable.neocities.org/",
 		"owner": "https://neocities.org/site/slysable/"
-	}
+	},
+
+    {
+        "name": "Daryl Sun's Journal",
+        "slug": "darylsun",
+		"about": "An online diary of a lady's misadventures in two worlds",
+        "url": "https://blog.darylsun.page/",
+		"rss": "https://blog.darylsun.page/rss.xml",
+		"owner": "hello@darylsun.page"
+    }
 ]
