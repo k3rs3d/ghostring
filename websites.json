@@ -213,5 +213,14 @@
 		"about": "i am an artist and a musician and this is the place where i get to scream about my love and obssession with horror movies and spooky stuff!!",
 		"url": "https://milasemcabeca.neocities.org/",
 		"owner": "https://neocities.org/site/milasemcabeca/"
-	}
+	},
+
+    {
+        "name": "Daryl Sun's Journal",
+        "slug": "darylsun",
+		"about": "An online diary of a lady's misadventures in two worlds",
+        "url": "https://blog.darylsun.page/",
+		"rss": "https://blog.darylsun.page/rss.xml",
+		"owner": "hello@darylsun.page"
+    }
 ]
