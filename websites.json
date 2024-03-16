@@ -222,5 +222,13 @@
         "url": "https://blog.darylsun.page/",
 		"rss": "https://blog.darylsun.page/rss.xml",
 		"owner": "hello@darylsun.page"
-    }
+    },
+	
+	{
+		"name": "The Walten Files Infodump",
+		"slug": "twfinfo",
+		"about": "my website for infodumping about the walten files :P",
+		"url": "https://twfinfo.neocities.org/",
+		"owner": "https://neocities.org/site/twinfo/"
+	}
 ]
