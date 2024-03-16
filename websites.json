@@ -245,5 +245,13 @@
 		"slug": "hiddenwebpage",
 		"url": "https://hiddenwebpage.neocities.org/",
 		"owner": "https://neocities.org/site/hiddenwebpage/"
+	},
+	
+	{
+		"name": "Appsir Games",
+		"slug": "AppSir",
+		"about": "A website for retro horror games with intertwined stories.",
+		"url": "https://appsirgames.neocities.org/home",
+		"owner": "Twitter @appsirgames"
 	}
 ]
