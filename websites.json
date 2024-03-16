@@ -238,5 +238,12 @@
 		"about": "I'm a Worldbuilder and Writer who loves to explore dark and spooooooooky topics through my work! Also drop by if you want to hear about my love for weird obscure indie games and music.",
 		"url": "https://duskspirals.neocities.org/",
 		"owner": "https://neocities.org/site/duskspirals"
+	},
+	
+	{
+		"name": "Hidden Webpage",
+		"slug": "hiddenwebpage",
+		"url": "https://hiddenwebpage.neocities.org/",
+		"owner": "https://neocities.org/site/hiddenwebpage/"
 	}
 ]
