@@ -261,5 +261,13 @@
 		"slug": "HOM",
 		"url": "https://hungryonmain.neocities.org/home",
 		"owner": "https://neocities.org/site/hungryonmain/"
+	},
+	
+		{
+		"name": "Happy Monkey",
+		"slug": "HAPPYM",
+		"about": "My page for my interests, hobbies, art and love for music.",
+		"url": "https://happymonkey.neocities.org/",
+		"owner": " https://neocities.org/site/happymonkey/"
 	}
 ]
