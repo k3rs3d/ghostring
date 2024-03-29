@@ -263,11 +263,19 @@
 		"owner": "https://neocities.org/site/hungryonmain/"
 	},
 	
-		{
+	{
 		"name": "Happy Monkey",
 		"slug": "HAPPYM",
 		"about": "My page for my interests, hobbies, art and love for music.",
 		"url": "https://happymonkey.neocities.org/",
-		"owner": " https://neocities.org/site/happymonkey/"
+		"owner": "https://neocities.org/site/happymonkey/"
+	},
+	
+	{
+		"name": "Infinite Bearr",
+		"slug": "BEARR",
+		"about": "a personal, funky website made by a ghost and a boy. not very spooky because friendly ghosts are a thing.",
+		"url": "https://infinitebearr.neocities.org",
+		"owner": "https://neocities.org/site/infinitebearr/"
 	}
 ]
