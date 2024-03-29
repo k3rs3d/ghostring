@@ -163,6 +163,7 @@
 	{
 		"name": "ghostsite",
 		"slug": "ghostsite",
+		"about": "a spooky, rambling site about ghosts. enter at your own risk!",
 		"url": "https://ghostsite.neocities.org/",
 		"owner": "https://neocities.org/site/ghostsite"
 	},
