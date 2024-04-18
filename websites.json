@@ -285,5 +285,13 @@
 		"about": "I operate with multiple layers of irony and satire, so you can never truly know the real me. This is my personal site.",
 		"url": "https://dariusaur.neocities.org/02webrings",
 		"owner": "https://neocities.org/site/dariusaur"
+	},
+	
+	{
+		"name": "oerrorpage",
+		"slug": "YOUR_SLUG",
+		"about": "a misc website about...",
+		"url": "https://oerrorpage.neocities.org/",
+		"owner": "https://neocities.org/site/oerrorpage"
 	}
 ]
