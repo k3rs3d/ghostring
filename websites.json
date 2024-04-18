@@ -277,5 +277,13 @@
 		"about": "a personal, funky website made by a ghost and a boy. not very spooky because friendly ghosts are a thing.",
 		"url": "https://infinitebearr.neocities.org",
 		"owner": "https://neocities.org/site/infinitebearr/"
+	},
+	
+	{
+		"name": "LegenDarius",
+		"slug": "darius",
+		"about": "I operate with multiple layers of irony and satire, so you can never truly know the real me. This is my personal site.",
+		"url": "https://dariusaur.neocities.org/02webrings",
+		"owner": "https://neocities.org/site/dariusaur"
 	}
 ]
