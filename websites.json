@@ -293,5 +293,13 @@
 		"about": "a horror loving vampire's personal site to showcase interests and practice coding",
 		"url": "https://anarchysin.neocities.org/",
 		"owner": "https://neocities.org/site/anarchysin"
+	},
+	
+	{
+		"name": "bloodthirsty masquerade",
+		"slug": "bloodthirsty",
+		"about": "gothic site dedicated to music, art, and pro wrestling run by a transmasc vampyre.",
+		"url": "https://bloodthirstymasquerade.neocities.org/",
+		"owner": "https://neocities.org/site/bloodthirstymasquerade"
 	}
 ]
