@@ -277,5 +277,21 @@
 		"about": "a misc website about...",
 		"url": "https://oerrorpage.neocities.org/",
 		"owner": "https://neocities.org/site/oerrorpage"
+	},
+	
+	{
+		"name": "Castor's Walk",
+		"slug": "castorswalk",
+		"about": "An online collection of original horror fiction",
+		"url": "https://castorswalk.neocities.org/",
+		"owner": "castorswalk@gmail.com"
+	},
+	
+	{
+		"name": "ANARCHYSIN",
+		"slug": "vamp",
+		"about": "a horror loving vampire's personal site to showcase interests and practice coding",
+		"url": "https://anarchysin.neocities.org/",
+		"owner": "https://neocities.org/site/anarchysin"
 	}
 ]
