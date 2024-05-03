@@ -317,5 +317,13 @@
 		"about": "An independently maintained database for the unpublished Naruto fanfiction, 'The Unsung Story' or 'En'noshita Monogatari'",
 		"url": "https://unsungstorywiki.neocities.org/webmaster/",
 		"owner": "https://neocities.org/site/unsungstorywiki"
+	},
+	
+	{
+		"name": "Raven Files",
+		"slug": "raven-files",
+		"about": "a slightly random, gothy personal site",
+		"url": "https://raven-files.neocities.org/",
+		"owner": "https://neocities.org/site/raven-files"
 	}
 ]
