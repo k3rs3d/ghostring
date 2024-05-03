@@ -325,5 +325,13 @@
 		"about": "a slightly random, gothy personal site",
 		"url": "https://raven-files.neocities.org/",
 		"owner": "https://neocities.org/site/raven-files"
+	},
+	
+	{
+		"name": "horrorlad",
+		"slug": "horrorlad",
+		"about": "a largely horror-focused blogging space, lovingly stitched together by a 30-something transgay.",
+		"url": "https://horrorlad.neocities.org/landing",
+		"owner": "https://neocities.org/site/horrorlad"
 	}
 ]
