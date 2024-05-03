@@ -309,5 +309,13 @@
 		"about": "a personal cyber graveyard-themed website for experimenting w/ code, writing and art",
 		"url": "https://multohhh.neocities.org/yours/paradiso",
 		"owner": "https://neocities.org/site/multohhhb"
+	},
+	
+	{
+		"name": "Naruto: The Unsung Story Wiki",
+		"slug": "usw",
+		"about": "An independently maintained database for the unpublished Naruto fanfiction, 'The Unsung Story' or 'En'noshita Monogatari'",
+		"url": "https://unsungstorywiki.neocities.org/webmaster/",
+		"owner": "https://neocities.org/site/unsungstorywiki"
 	}
 ]
