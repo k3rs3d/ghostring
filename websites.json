@@ -301,5 +301,13 @@
 		"about": "gothic site dedicated to music, art, and pro wrestling run by a transmasc vampyre.",
 		"url": "https://bloodthirstymasquerade.neocities.org/links/",
 		"owner": "https://neocities.org/site/bloodthirstymasquerade"
+	},
+	
+	{
+		"name": "multo's graveyard",
+		"slug": "multo",
+		"about": "a personal cyber graveyard-themed website for experimenting w/ code, writing and art",
+		"url": "https://multohhh.neocities.org/yours/paradiso",
+		"owner": "https://neocities.org/site/multohhhb"
 	}
 ]
