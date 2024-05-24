@@ -1,23 +1,31 @@
 body {
-    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, Consolas, monospace, sans-serif;
+    font-family: Georgia, serif;
+	font-size: 20px;
 	line-height: 1.6;
-    background-color: #111;
-    color: #fff;
+    background-color: #000;
+    color: #ffe;
+	padding: 1em;
+}
+
+h1,h2,h3,h4,h5 {
+	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, Consolas, monospace, sans-serif;
+	font-weight: bolder;
+	color: #f11;
+	margin-top: 1.8em;
 }
 
 h1 {
 	text-align: center;
+	margin-top: 0;
 }
 
 a {
     color: #f11;
-    text-decoration: none;
-    background-color: transparent;
+    transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus {
-    text-decoration: none; 
-    background-color: #f11;
+    text-shadow: 0 0 6px #ff0000;
     color: #fff; 
 }
 
@@ -64,6 +72,55 @@ th {
     }
 }
 
+
+.highlight {
+	background-color: #f00;
+}
+
+@keyframes wobble {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(5deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+}
+
+img {
+    display: inline-block; /* for transform to work properly */
+    animation: wobble 2s infinite;
+}
+
+.fog-container {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 66%; 
+    background: url('./fog.jpg') repeat; 
+    animation: moveFog 80s linear infinite; 
+    pointer-events: none; 
+    z-index: -1000; 
+    opacity: 0.25; 
+}
+
+.fog-container::before {
+	content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+@keyframes moveFog {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 0;
+    }
+}
 
 .hidden-text {
 	visibility: hidden;
