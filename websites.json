@@ -382,5 +382,13 @@
 		"about": "blog, recommendations, and more !",
 		"url": "https://smock.neocities.org/",
 		"owner": "https://smock.neocities.org/page/me"
+	},
+	
+	{
+		"name": "Jadestrogen",
+		"slug": "jadestrogen",
+		"about": "Cringelord Extraordinaire",
+		"url": "https://queenofbluescreens.neocities.org/home",
+		"owner": "https://queenofbluescreens.neocities.org/home"
 	}
 ]
