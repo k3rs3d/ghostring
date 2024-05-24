@@ -341,5 +341,13 @@
 		"about": "personyal blog of a gothy, nihilist queerdo",
 		"url": "https://robynnesnest.click/",
 		"owner": "@robynne@woem.men"
+	},
+	
+	{
+		"name": "Emo Cowboy",
+		"slug": "emocowboy",
+		"about": "the emo-est website on the net",
+		"url": "https://emocowboy.neocities.org/",
+		"owner": "https://neocities.com/site/emocowboy"
 	}
 ]
