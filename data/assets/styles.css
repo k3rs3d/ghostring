@@ -1,3 +1,10 @@
+@font-face {
+	font-family: 'gypsy curse';
+	src: url('gypsy curse.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	}
+
 body {
     font-family: Georgia, serif;
 	font-size: 20px;
@@ -8,9 +15,8 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, Consolas, monospace, sans-serif;
-	font-weight: bolder;
-	color: #f11;
+	font-family: 'gypsy curse', sans-serif;
+	color: #f22;
 	margin-top: 1.8em;
 }
 
