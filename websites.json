@@ -374,5 +374,13 @@
 		"about": "Tarantulas, stories, books, drawings and other madness",
 		"url": "https://hydraheads.neocities.org/",
 		"owner": "https://neocities.org/site/hydraheads"
+	},
+	
+	{
+		"name": "smock",
+		"slug": "smock",
+		"about": "blog, recommendations, and more !",
+		"url": "https://smock.neocities.org/",
+		"owner": "https://smock.neocities.org/page/me"
 	}
 ]
