@@ -349,5 +349,14 @@
 		"about": "the emo-est website on the net",
 		"url": "https://emocowboy.neocities.org/",
 		"owner": "https://neocities.com/site/emocowboy"
+	},
+	
+	{
+		"name": "Manyface",
+		"slug": "manyface",
+		"about": "A nice place for a system called Manyface. We like to make art and do lots of other things!",
+		"url": "https://manyface.neocities.org/",
+		"rss": "https://manyface.neocities.org/feed.xml",
+		"owner": "https://manyface.neocities.org/contact"
 	}
 ]
