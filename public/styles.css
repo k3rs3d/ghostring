@@ -1,12 +1,19 @@
 @font-face {
 	font-family: 'gypsy curse';
-	src: url('gypsy curse.ttf') format('truetype');
+	src: url('Gypsy Curse.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	}
+	
+@font-face {
+	font-family: 'imperator';
+	src: url('Imperator.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	}
 
 body {
-    font-family: Georgia, serif;
+    font-family: 'imperator', Georgia, serif;
 	font-size: 20px;
 	line-height: 1.6;
     background-color: #000;
@@ -16,11 +23,12 @@ body {
 
 h1,h2,h3,h4,h5 {
 	font-family: 'gypsy curse', sans-serif;
+	font-size: 2.5em;
 	color: #f22;
-	margin-top: 1.8em;
 }
 
 h1 {
+	font-size: 3em;
 	text-align: center;
 	margin-top: 0;
 }
