@@ -4,9 +4,16 @@
 	font-weight: normal;
 	font-style: normal;
 	}
+	
+@font-face {
+	font-family: 'imperator';
+	src: url('Imperator.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	}
 
 body {
-    font-family: Georgia, serif;
+    font-family: 'imperator', Georgia, serif;
 	font-size: 20px;
 	line-height: 1.6;
     background-color: #000;
