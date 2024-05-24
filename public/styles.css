@@ -1,3 +1,10 @@
+@font-face {
+	font-family: 'gypsy curse';
+	src: url('gypsy curse.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	}
+
 body {
     font-family: Georgia, serif;
 	font-size: 20px;
@@ -8,9 +15,8 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, Consolas, monospace, sans-serif;
-	font-weight: bolder;
-	color: #f11;
+	font-family: 'gypsy curse', sans-serif;
+	color: #f22;
 	margin-top: 1.8em;
 }
 
@@ -95,9 +101,9 @@ img {
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 66%; 
+    height: 50%; 
     background: url('./fog.jpg') repeat; 
-    animation: moveFog 80s linear infinite; 
+    animation: moveFog 100s linear infinite; 
     pointer-events: none; 
     z-index: -1000; 
     opacity: 0.25; 
