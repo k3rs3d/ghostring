@@ -20,8 +20,9 @@ body {
     color: #ffd;
 	padding: 1em;
 	margin: auto;
-	width: 60rem;
-	max-width: 120rem;
+	width: 90%;
+	max-width: 90rem;
+	box-sizing: border-box;
 }
 
 h1,h2,h3,h4,h5 {
@@ -96,6 +97,11 @@ th {
 }
 
 @media screen and (max-width: 600px) {
+	
+	body {
+		width: 100%;
+	}
+	
 	.table-wrapper {
         -webkit-overflow-scrolling: touch; /* smooth scrolling */
     }
