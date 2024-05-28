@@ -406,5 +406,13 @@
 		"about": "personal site of a wizard that lives at the end of a rainbow",
 		"url": "https://marshdotcom.neocities.org/",
 		"owner": "https://neocities.org/site/marshdotcom"
+	},
+	
+	{
+		"name": "doggrl",
+		"slug": "doggrl",
+		"about": "dog-thing makes music and does rituals right in your browser!",
+		"url": "https://dggrl.neocities.org/",
+		"owner": "https://neocities.org/site/dggrl"
 	}
 ]
