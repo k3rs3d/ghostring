@@ -21,8 +21,16 @@ body {
 	padding: 1em;
 	margin: auto;
 	width: 90%;
-	max-width: 90rem;
+	max-width: 80rem;
 	box-sizing: border-box;
+}
+
+b {
+	color: #fff;
+}
+
+code {
+	color: #afe;
 }
 
 h1,h2,h3,h4,h5 {
@@ -43,7 +51,7 @@ a {
 }
 
 a:hover, a:focus {
-    text-shadow: 0 0 6px #ff0000;
+    text-shadow: 0 0 6px #f00, 0 0 16px #f00;
     color: #fff; 
 }
 
@@ -145,7 +153,7 @@ th {
 
 img {
     display: inline-block; 
-	z-index: -1;
+	z-index: -99;
     animation: wobble 2s infinite;
 }
 
