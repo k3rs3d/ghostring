@@ -414,5 +414,13 @@
 		"about": "dog-thing makes music and does rituals right in your browser!",
 		"url": "https://dggrl.neocities.org/",
 		"owner": "https://neocities.org/site/dggrl"
+	},
+	
+	{
+		"name": "noisecorvid",
+		"slug": "noisecorvid",
+		"about": "a digital playground of a horror-obsessed crow.",
+		"url": "https://noisecorvid.neocities.org/",
+		"owner": "https://noisecorvid.neocities.org/myspace"
 	}
 ]
