@@ -436,5 +436,12 @@
 		"about": "A humble place where I post my writings",
 		"url": "https://aldernea.neocities.org/inicio",
 		"owner": "https://neocities.org/site/aldernea"
+	},
+
+	{
+		"name": "yetiuard",
+		"slug": "yetiuard",
+		"about": "A place where I host some small projects",
+		"url": "https://yetiuard,wtf/",
 	}
 ]
