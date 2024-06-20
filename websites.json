@@ -459,5 +459,13 @@
 		"about": "A site for me, beauty, and animals",
 		"url": "https://xxhalfemptyxx.neocities.org/",
 		"owner": "https://xxhalfemptyxx.neocities.org/phonebook"
+	},
+	
+	{
+		"name": "Half-Drowned Hound",
+		"slug": "hound",
+		"about": "A personal site with and entire section for horror- reviews, short stories, essays, etc.",
+		"url": "http://drownedhound.neocities.org/links",
+		"owner": "drownedhoundneo@gmail.com"
 	}
 ]
