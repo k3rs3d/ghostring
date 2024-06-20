@@ -443,5 +443,13 @@
 		"slug": "yetiuard",
 		"about": "A place where I host some small projects",
 		"url": "https://yetiuard,wtf/",
+	},
+	
+	{
+		"name": "Grimm's Occult Corner",
+		"slug": "grimms",
+		"about": "A website for my posting about supernatural creatures and beliefs",
+		"url": "https://grimms-occult-corner.neocities.org/homepage",
+		"owner": "https://batty-blogs.neocities.org/"
 	}
 ]
