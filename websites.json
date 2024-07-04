@@ -6,7 +6,7 @@
         "url": "https://ghostring.neocities.org/",
 		"owner": "https://ghostring.neocities.org/"
     },
-	
+
     {
         "name": "Kersed",
         "slug": "kersed",
@@ -15,7 +15,7 @@
 		"rss": "http://kersed.net/index.xml",
 		"owner": "@kern@hol.ogra.ph"
     },
-	
+
 	{
         "name": "GhostSalt",
         "slug": "ghostsalt",
@@ -23,13 +23,13 @@
         "url": "https://ghostsalt.neocities.org/buttons-etc",
 		"owner": "https://ghostsalt.neocities.org/"
     },
-	
+
 	{
 		"name": "Harvest Home",
 		"slug": "harvest-home",
 		"url": "https://harvest-home.neocities.org/"
 	},
-	
+
 	{
         "name": "gh0sted",
         "slug": "gh0sted",
@@ -37,7 +37,7 @@
         "url": "https://gh0sted.neocities.org/",
 		"owner": "https://neocities.org/site/gh0sted"
     },
-	
+
 	{
         "name": "Real Live Ghost",
         "slug": "realliveghost",
@@ -45,7 +45,7 @@
         "url": "https://realliveghost.com",
 		"owner": "realliveghostmusic@gmail.com"
     },
-	
+
 	{
         "name": "fruitscones",
         "slug": "fruitscones",
@@ -53,29 +53,29 @@
         "url": "https://fruitscones.neocities.org/main/main",
 		"owner": "https://neocities.org/site/fruitscones"
     },
-	
+
 	{
 		"name": "Hellmouth",
 		"slug": "hellmouth",
 		"about": "",
 		"url": "https://hell-mouth.neocities.org/ ",
-		"owner": "https://neocities.org/sites/hell-mouth/" 
+		"owner": "https://neocities.org/sites/hell-mouth/"
 	},
-	
+
 	{
 		"name": "The Priestwife",
 		"slug": "priestwife",
 		"about": "The Priestwife is a weird, gory horror/fantasy webcomic about living with things that kill you. Upates the third Thursday of each month. ",
 		"url": "https://priestwife.neocities.org/main",
 		"rss": "https://cohost.org/priestwife/",
-		"owner": "@Priestwife@mellified.men" 
+		"owner": "@Priestwife@mellified.men"
 	},
 
 	{
 		"name": "Monty's Mortuary",
 		"slug": "montys-mortuary",
 		"about": "Horror movies, goth music, and all things creepy and crawly ",
-		"url": "https://montysmortuary.neocities.org/", 
+		"url": "https://montysmortuary.neocities.org/",
 		"owner": "https://neocities.org/site/montysmortuary/"
 	},
 
@@ -83,43 +83,43 @@
 		"name": "foreverliketh.is",
 		"slug": "foreverlikethis",
 		"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
-		"url": "https://foreverliketh.is/", 
+		"url": "https://foreverliketh.is/",
 		"owner": "hi@foreverliketh.is"
   },
-	
+
   {
 		"name": "Elbowthief",
 		"slug": "elbowthief",
-		"url": "https://elbowthief.neocities.org/", 
+		"url": "https://elbowthief.neocities.org/",
 		"owner": "https://neocities.org/site/elbowthief/"
 	},
 
-	
+
 	{
 		"name": "PROPHETESQUE",
 		"slug": "prophetesque",
 		"about": "the personal blog of a queer transfag furby guy.",
-		"url": "https://prophetesque.gay/affiliates", 
+		"url": "https://prophetesque.gay/affiliates",
 		"owner": "https://neocities.org/site/prophetesque"
 	},
-	
+
 	{
 		"name": "GIANTGHOST",
 		"slug": "GIANTGHOST",
 		"about": "Neocities hackersound hardcore mod music.",
-		"url": "https://giantghost.net/main", 
+		"url": "https://giantghost.net/main",
 		"rss": "https://giantghost.net/rss.xml",
 		"owner": "ghost@giantghost.net"
 	},
-	
+
 	{
 		"name": "trash and trash",
 		"slug": "trashandtrash",
 		"about": "a personal vocaloid themed site dedicated to an artist's nerdy interests",
-		"url": "https://trashandtrash.neocities.org/about", 
+		"url": "https://trashandtrash.neocities.org/about",
 		"owner": "https://neocities.org/site/trashandtrash"
 	},
-	
+
 	{
 		"name": "Corvidae Galaxy",
 		"slug": "corvidae",
@@ -127,7 +127,7 @@
 		"url": "https://corvidae.digital/",
 		"owner": "https://corvidae.digital/"
 	},
-	
+
 	{
 		"name": "DNAzone",
 		"slug": "dna",
@@ -143,7 +143,7 @@
 		"url": "http://baccyflap.com/rsp/",
 		"owner": "rmf"
 	},
-	
+
 	{
 		"name": "Caesthoffe",
 		"slug": "caesthoffe",
@@ -151,7 +151,7 @@
 		"url": "https://caesthoffe.neocities.org",
 		"owner": "https://neocities.org/site/caesthoffe/"
 	},
-	
+
 	{
 		"name": "ghostsite",
 		"slug": "ghostsite",
@@ -159,7 +159,7 @@
 		"url": "https://ghostsite.neocities.org/",
 		"owner": "https://neocities.org/site/ghostsite"
 	},
-	
+
 	{
 		"name": "Cryptid Diaries",
 		"slug": "cryptid-diaries",
@@ -167,7 +167,7 @@
 		"url": "https://cryptid-diaries.neocities.org/",
 		"owner": "https://neocities.org/site/cryptid-diaries/"
 	},
-	
+
 	{
 		"name": "Swamp Gremlin",
 		"slug": "swampgremlin",
@@ -175,7 +175,7 @@
 		"url": "https://swampgremlin.neocities.org/",
 		"owner": "https://neocities.org/site/swampgremlin/"
 	},
-	
+
 	{
 		"name": "GHOST HOUSE",
 		"slug": "ghosthoused",
@@ -183,7 +183,7 @@
 		"url": "https://ghost-house.neocities.org/",
 		"owner": "ratnukegenius@gmail.com"
 	},
-	
+
 	{
 		"name": "sammylux",
 		"slug": "sammylux",
@@ -191,7 +191,7 @@
 		"url": "https://sammylux.neocities.org/",
 		"owner": "https://neocities.org/site/sammylux"
 	},
-	
+
 	{
 		"name": "The Cabinet of Curiosities",
 		"slug": "curiosity_cabinet",
@@ -199,7 +199,7 @@
 		"url": "https://slysable.neocities.org/isoabout",
 		"owner": "https://neocities.org/site/slysable/"
 	},
-	
+
 	{
 		"name": "Mila Sem Cabeça",
 		"slug": "headlessghost",
@@ -216,7 +216,7 @@
 		"rss": "https://blog.darylsun.page/rss.xml",
 		"owner": "hello@darylsun.page"
     },
-	
+
 	{
 		"name": "The Walten Files Infodump",
 		"slug": "twfinfo",
@@ -224,7 +224,7 @@
 		"url": "https://twfinfo.neocities.org/",
 		"owner": "https://neocities.org/site/twinfo/"
 	},
-	
+
 	{
 		"name": "Duskspirals",
 		"slug": "Duskspirals",
@@ -232,14 +232,14 @@
 		"url": "https://duskspirals.neocities.org/",
 		"owner": "https://neocities.org/site/duskspirals"
 	},
-	
+
 	{
 		"name": "Hidden Webpage",
 		"slug": "hiddenwebpage",
 		"url": "https://hiddenwebpage.neocities.org/",
 		"owner": "https://neocities.org/site/hiddenwebpage/"
 	},
-	
+
 	{
 		"name": "Appsir Games",
 		"slug": "AppSir",
@@ -247,14 +247,14 @@
 		"url": "https://appsirgames.neocities.org/home",
 		"owner": "Twitter @appsirgames"
 	},
-	
+
 	{
 		"name": "Hungry on Main",
 		"slug": "HOM",
 		"url": "https://hungryonmain.neocities.org/home",
 		"owner": "https://neocities.org/site/hungryonmain/"
 	},
-	
+
 	{
 		"name": "Happy Monkey",
 		"slug": "HAPPYM",
@@ -262,15 +262,15 @@
 		"url": "https://happymonkey.neocities.org/",
 		"owner": "https://neocities.org/site/happymonkey/"
 	},
-	
+
 	{
 		"name": "Infinite Bearr",
 		"slug": "BEARR",
 		"about": "a personal, funky website made by a ghost and a boy. not very spooky because friendly ghosts are a thing.",
 		"url": "https://infinitebearr.neocities.org/links",
 		"owner": "https://neocities.org/site/infinitebearr/"
-	},	
-	
+	},
+
 	{
 		"name": "oerrorpage",
 		"slug": "YOUR_SLUG",
@@ -278,7 +278,7 @@
 		"url": "https://oerrorpage.neocities.org/",
 		"owner": "https://neocities.org/site/oerrorpage"
 	},
-	
+
 	{
 		"name": "Castor's Walk",
 		"slug": "castorswalk",
@@ -286,7 +286,7 @@
 		"url": "https://castorswalk.neocities.org/",
 		"owner": "castorswalk@gmail.com"
 	},
-	
+
 	{
 		"name": "ANARCHYSIN",
 		"slug": "vamp",
@@ -294,7 +294,7 @@
 		"url": "https://anarchysin.neocities.org/",
 		"owner": "https://neocities.org/site/anarchysin"
 	},
-	
+
 	{
 		"name": "bloodthirsty masquerade",
 		"slug": "bloodthirsty",
@@ -302,7 +302,7 @@
 		"url": "https://bloodthirstymasquerade.neocities.org/links.html",
 		"owner": "https://neocities.org/site/bloodthirstymasquerade"
 	},
-	
+
 	{
 		"name": "multo's graveyard",
 		"slug": "multo",
@@ -310,7 +310,7 @@
 		"url": "https://multohhh.neocities.org/yours/paradiso",
 		"owner": "https://neocities.org/site/multohhhb"
 	},
-	
+
 	{
 		"name": "Naruto: The Unsung Story Wiki",
 		"slug": "usw",
@@ -318,7 +318,7 @@
 		"url": "https://unsungstorywiki.neocities.org/webmaster/",
 		"owner": "https://neocities.org/site/unsungstorywiki"
 	},
-	
+
 	{
 		"name": "Raven Files",
 		"slug": "raven-files",
@@ -326,7 +326,7 @@
 		"url": "https://raven-files.neocities.org/",
 		"owner": "https://neocities.org/site/raven-files"
 	},
-	
+
 	{
 		"name": "horrorlad",
 		"slug": "horrorlad",
@@ -334,7 +334,7 @@
 		"url": "https://horrorlad.neocities.org/landing",
 		"owner": "https://neocities.org/site/horrorlad"
 	},
-	
+
 	{
 		"name": "robynne's nest",
 		"slug": "robynne",
@@ -342,7 +342,7 @@
 		"url": "https://robynnesnest.click/",
 		"owner": "@robynne@woem.men"
 	},
-	
+
 	{
 		"name": "Emo Cowboy",
 		"slug": "emocowboy",
@@ -350,7 +350,7 @@
 		"url": "https://emocowboy.neocities.org/",
 		"owner": "https://neocities.com/site/emocowboy"
 	},
-	
+
 	{
 		"name": "Manyface",
 		"slug": "manyface",
@@ -359,7 +359,7 @@
 		"rss": "https://manyface.neocities.org/feed.xml",
 		"owner": "https://manyface.neocities.org/contact"
 	},
-	
+
 	{
 		"name": "WIZARDPORTAL333",
 		"slug": "WIZARD333",
@@ -367,7 +367,7 @@
 		"url": "https://wizardportal333.neocities.org/",
 		"owner": "https://neocities.org/site/wizardportal333/"
 	},
-	
+
 	{
 		"name": "𓋹 Hydraheads 𓋹",
 		"slug": "hydraheads",
@@ -375,7 +375,7 @@
 		"url": "https://hydraheads.neocities.org/",
 		"owner": "https://neocities.org/site/hydraheads"
 	},
-	
+
 	{
 		"name": "Hemwick Lane",
 		"slug": "hemwick-lane",
@@ -383,7 +383,7 @@
 		"url": "https://hemwick-lane.neocities.org/",
 		"owner": "https://neocities.org/site/hemwick-lane/"
 	},
-	
+
 	{
 		"name": "smock",
 		"slug": "smock",
@@ -391,7 +391,7 @@
 		"url": "https://smock.neocities.org/",
 		"owner": "https://smock.neocities.org/page/me"
 	},
-	
+
 	{
 		"name": "Jadestrogen",
 		"slug": "jadestrogen",
@@ -399,7 +399,7 @@
 		"url": "https://queenofbluescreens.neocities.org/home",
 		"owner": "https://queenofbluescreens.neocities.org/home"
 	},
-	
+
 	{
 		"name": "⋆⋅ marsh.com ⋅⋆",
 		"slug": "marshdotcom",
@@ -407,7 +407,7 @@
 		"url": "https://marshdotcom.neocities.org/",
 		"owner": "https://neocities.org/site/marshdotcom"
 	},
-	
+
 	{
 		"name": "doggrl",
 		"slug": "doggrl",
@@ -415,7 +415,7 @@
 		"url": "https://dggrl.neocities.org/",
 		"owner": "https://neocities.org/site/dggrl"
 	},
-	
+
 	{
 		"name": "noisecorvid",
 		"slug": "noisecorvid",
@@ -423,13 +423,13 @@
 		"url": "https://noisecorvid.neocities.org/",
 		"owner": "https://noisecorvid.neocities.org/myspace"
 	},
-	
+
 	{
 		"name": "ikaroll",
 		"slug": "ikaroll",
 		"url": "https://ikaroll.neocities.org/"
 	},
-	
+
 	{
 		"name": "aldernea",
 		"slug": "aldernea",
@@ -444,7 +444,7 @@
 		"about": "A place where I host some small projects",
 		"url": "https://yetiuard.wtf/"
 	},
-	
+
 	{
 		"name": "Grimm's Occult Corner",
 		"slug": "grimms",
@@ -452,7 +452,7 @@
 		"url": "https://grimms-occult-corner.neocities.org/homepage",
 		"owner": "https://batty-blogs.neocities.org/"
 	},
-	
+
 	{
 		"name": "Xx_halfempty_xX",
 		"slug": "halfempty",
@@ -460,12 +460,21 @@
 		"url": "https://xxhalfemptyxx.neocities.org/",
 		"owner": "https://xxhalfemptyxx.neocities.org/phonebook"
 	},
-	
+
 	{
 		"name": "Half-Drowned Hound",
 		"slug": "hound",
 		"about": "A personal site with and entire section for horror- reviews, short stories, essays, etc.",
 		"url": "http://drownedhound.neocities.org/links",
 		"owner": "drownedhoundneo@gmail.com"
+	},
+
+	{
+		"name": "Lelukin's Hub",
+        "slug": "leilukin",
+        "about": "Personal website of Leilukin dedicated to queerness and various interests.",
+        "url": "https://leilukin.com/",
+        "rss": "https://leilukin.com/feed.xml",
+        "owner": "contact@leilukin.com"
 	}
 ]
