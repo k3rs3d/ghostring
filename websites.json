@@ -107,11 +107,7 @@
 		"name": "GIANTGHOST",
 		"slug": "GIANTGHOST",
 		"about": "Neocities hackersound hardcore mod music.",
-<<<<<<< HEAD
 		"url": "https://giantghost.net/", 
-=======
-		"url": "https://giantghost.net/main",
->>>>>>> 852b700a1ffecfb4b725696765259e74b86bfe3a
 		"rss": "https://giantghost.net/rss.xml",
 		"owner": "ghost@giantghost.net"
 	},
