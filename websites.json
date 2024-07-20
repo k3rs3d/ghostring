@@ -476,14 +476,22 @@
         "url": "https://leilukin.com/",
         "rss": "https://leilukin.com/feed.xml",
         "owner": "contact@leilukin.com"
-  },
+	},
   
-  {
+	{
 		"name": "Alberto Prado",
 		"slug": "alprado",
 		"about": "A personal space that keeps me sane from complexity",
 		"url": "https://alprado.com/",
 		"owner": "luis@alprado.com"
+	},
+	
+	{
+		"name": "El Taller De Overns",
+		"slug": "eltallerdeoverns",
+		"about": "un blog sobre mi y mis gustos",
+		"url": "https://overnsworkshop.neocities.org/",
+		"owner": "https://neocities.org/site/overnsworkshop"
 	}
 
 ]
