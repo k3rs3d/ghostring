@@ -492,6 +492,14 @@
 		"about": "un blog sobre mi y mis gustos",
 		"url": "https://overnsworkshop.neocities.org/",
 		"owner": "https://neocities.org/site/overnsworkshop"
+	},
+	
+	{
+		"name": "Venus in Foxfurs",
+		"slug": "venusinfoxfurs",
+		"about": "a silly personal site and works compendium!",
+		"url": "https://venusinfoxfurs.neocities.org/",
+		"owner": "a3s3u3ra@gmail.com"
 	}
 
 ]
