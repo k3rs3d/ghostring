@@ -511,10 +511,12 @@
 	},
 	
 	{
-		"name": "augustaquarium",
+		"name": "Kursed",
 		"slug": "Kursed",
 		"about": "A homepage with links to my emo sites",
 		"url": "https://kurse982.neocities.org/",
 		"owner": "ggsmoovplaz@gmail.com"
-	}
+	},
+	
+
 ]
