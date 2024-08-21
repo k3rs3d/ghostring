@@ -508,6 +508,70 @@
 		"about": "A personal site that talks about software development, cooking, and gets nostalgic about games",
 		"url": "https://thehoneypot.neocities.org/",
 		"owner": "https://neocities.org/site/thehoneypot"
+	},
+	
+	{
+		"name": "augustaquarium",
+		"slug": "augustaquarium",
+		"about": "a personal site for whatever",
+		"url": "https://augustaquarium.neocities.org/",
+		"owner": "radioheadfan34@gmail.com"
+	},
+	
+	{
+		"name": "Kursed",
+		"slug": "Kursed",
+		"about": "A homepage with links to my emo sites",
+		"url": "https://kurse982.neocities.org/",
+		"owner": "ggsmoovplaz@gmail.com"
+	},
+	
+	{
+		"name": "Uranian Dog",
+		"slug": "euclids-exception",
+		"about": "hey did you guys know johannes kepler might've murdered tycho brahe? site for space science, various horrors, and personal introspection",
+		"url": "https://euclids-exception.neocities.org/",
+		"owner": "neutronelectronnand@proton.me"
+	},
+	
+	{
+		"name": "HarioGrindset",
+		"slug": "hariogrindset",
+		"about": "Personal site, I'll talk about coding, hacking, chess, coffee and a rant here and there.",
+		"url": "https://hariogrindset.com/",
+		"owner": "hariogrindset@tutamail.com"
+	},
+	
+	{
+		"name": "Spirits on Sight City!",
+		"slug": "SpiritsOnSight",
+		"about": "An arg centered around a mysterious lost episode of a ghost hunting show!",
+		"url": "https://spiritsonsightcity.neocities.org/",
+		"owner": "https://neocities.org/site/spiritsonsightcity"
+	},
+	
+	{
+		"name": "WraithGlade",
+		"slug": "wraithglade",
+		"about": "ex-AAA game dev, creative generalist, nature lover, author",
+		"url": "https://wraithglade.com/",
+		"owner": "https://wraithglade.com/contact_info"
+	},
+	
+	{
+		"name": "wrap",
+		"slug": "wrap",
+		"about": "wrap's biolink site",
+		"url": "https://wrap.neocities.org/",
+		"owner": "https://spacehey.com/bulimia"
+	},
+	
+	{
+		"name": "hydromaniac",
+		"slug": "hydromaniac",
+		"about": "hydro's heart shaped box",
+		"url": "https://hydromaniac.neocities.org/",
+		"owner": "https://spacehey.com/hydromaniac"
 	}
 
 ]

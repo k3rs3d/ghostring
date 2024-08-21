@@ -9,7 +9,10 @@ path_assets = "./data/assets"
 path_templates = "./data/templates"
 base_url = "https://ghostring.neocities.org"
 
-audit = false
+audit_retries_delay = 300
+audit_retries_max = 5
+
+audit = true
 shuffle = true
 verbose = true
 skip_minify = false
