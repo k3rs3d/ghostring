@@ -545,10 +545,17 @@
 	{
 		"name": "WraithGlade",
 		"slug": "wraithglade",
-		"about": "ex-AAA game dev, creative generalist, nature lover, author
+		"about": "ex-AAA game dev, creative generalist, nature lover, author"
 		"url": "https://wraithglade.com/",
 		"owner": "https://wraithglade.com/contact_info"
-	}
+	},
 	
+	{
+		"name": "wrap",
+		"slug": "wrap",
+		"about": "wrap's biolink site"
+		"url": "https://wrap.neocities.org/",
+		"owner": "https://spacehey.com/bulimia"
+	}
 
 ]
