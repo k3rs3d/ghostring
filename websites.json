@@ -556,6 +556,14 @@
 		"about": "wrap's biolink site",
 		"url": "https://wrap.neocities.org/",
 		"owner": "https://spacehey.com/bulimia"
+	},
+	
+	{
+		"name": "hydromaniac",
+		"slug": "hydromaniac",
+		"about": "hydro's heart shaped box",
+		"url": "https://hydromaniac.neocities.org/",
+		"owner": "https://spacehey.com/hydromaniac"
 	}
 
 ]
