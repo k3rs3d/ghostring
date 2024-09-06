@@ -588,6 +588,14 @@
 		"about": "ABANDON FLESH - a personal page for games, writing, webcomics",
 		"url": "https://paulboxman.neocities.org/",
 		"owner": "https://neocities.org/site/paulboxman"
+	},
+	
+	{
+		"name": "ouija bored",
+		"slug": "ouijabored",
+		"about": "the musings of a twenty-something humanoid girl-creature",
+		"url": "https://ouija-bored.neocities.org",
+		"owner": "https://neocities.org/site/ouija-bored"
 	}
 
 ]
