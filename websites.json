@@ -620,6 +620,13 @@
 		"about": "a personal page, my ennui made me do it",
 		"url": "https://3amennui.neocities.org/",
 		"owner": "https://neocities.org/site/3amennui"
+	},
+	
+	{
+		"name": "fragmentandreflect",
+		"slug": "fringe",
+		"about": "witchcraft, grassroots activism, recovery and underground music",
+		"url": "https://fragmentandreflect.art/"
 	}
 
 ]
