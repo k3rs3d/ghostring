@@ -612,6 +612,14 @@
 		"about": "Wizard posting musings about witchcraft, paganism, and my personal life.",
 		"url": "https://benitengu.neocities.org/",
 		"owner": "https://neocities.org/site/benitengu"
+	},
+	
+	{
+		"name": "three a.m. ennui",
+		"slug": "ennui",
+		"about": "a personal page, my ennui made me do it",
+		"url": "https://3amennui.neocities.org/",
+		"owner": "https://neocities.org/site/3amennui"
 	}
 
 ]
