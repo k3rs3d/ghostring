@@ -648,9 +648,17 @@
 	{
 		"name": "MossyPawprints",
 		"slug": "mossypawprints",
-		"about": " dark corner, where I share my experiences, drawings, dogs, and passions with a touch of fantasy and horror.",
+		"about": "dark corner, where I share my experiences, drawings, dogs, and passions with a touch of fantasy and horror.",
 		"url": "https://mossypawprints.neocities.org/",
 		"owner": "https://neocities.org/site/mossypawprints"
+	},
+	
+	{
+		"name": "EVIL FUCKING WEBSITE",
+		"slug": "evilweb",
+		"about": "EVIL WIZARD NAMED T RESIDES IN THEIR EVIL FORTRESS OF MAGIC AND WONDER AND VARIOUS GAY THINGS. also every page is a different aesthetic.",
+		"url": "https://t-hates-you.neocities.org/",
+		"owner": "https://neocities.org/site/t-hates-you"
 	}
 
 ]
