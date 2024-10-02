@@ -635,6 +635,14 @@
 		"slug": "fringe",
 		"about": "witchcraft, grassroots activism, recovery and underground music",
 		"url": "https://fragmentandreflect.art/"
+	},
+	
+	{
+		"name": "Sleepy Circus",
+		"slug": "SleepyCalaban",
+		"about": "Personal site as a box for my trinkets. >:3",
+		"url": "https://sleepycircus.neocities.org/",
+		"owner": "https://neocities.org/site/sleepycircus"
 	}
 
 ]
