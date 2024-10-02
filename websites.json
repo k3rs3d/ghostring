@@ -643,6 +643,14 @@
 		"about": "Personal site as a box for my trinkets. >:3",
 		"url": "https://sleepycircus.neocities.org/",
 		"owner": "https://neocities.org/site/sleepycircus"
+	},
+	
+	{
+		"name": "MossyPawprints",
+		"slug": "mossypawprints",
+		"about": " dark corner, where I share my experiences, drawings, dogs, and passions with a touch of fantasy and horror.",
+		"url": "https://mossypawprints.neocities.org/",
+		"owner": "https://neocities.org/site/mossypawprints"
 	}
 
 ]
