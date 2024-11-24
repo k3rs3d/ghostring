@@ -667,6 +667,12 @@
 		"about": "Short Japanese horror stories translated to English",
 		"url": "https://kaidanworld.neocities.org/",
 		"owner": "https://neocities.org/site/kaidanworld"
+	},
+	
+	{
+		"name": "blopswebsite",
+		"slug": "blopswebsite",
+		"url": "https://blopswebsite.neocities.org"
 	}
 
 ]
