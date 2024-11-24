@@ -58,7 +58,7 @@
 		"name": "Hellmouth",
 		"slug": "hellmouth",
 		"about": "",
-		"url": "https://hell-mouth.neocities.org/ ",
+		"url": "https://hell-mouth.neocities.org/",
 		"owner": "https://neocities.org/sites/hell-mouth/"
 	},
 
@@ -667,6 +667,13 @@
 		"about": "Short Japanese horror stories translated to English",
 		"url": "https://kaidanworld.neocities.org/",
 		"owner": "https://neocities.org/site/kaidanworld"
+	},
+
+	{
+		"name": "freakysunshine",
+		"slug": "freaksunniez",
+		"url": "https://freakysunshine.neocities.org/mainpage",
+		"owner": "https://neocities.org/site/freakysunshine"
 	}
 
 ]
