@@ -723,6 +723,13 @@
 		"slug": "freshflesh",
 		"url": "https://freshflesh.neocities.org/",
 		"owner": "https://neocities.org/site/freshflesh"
+	},
+
+	{
+		"name": "suntooth",
+		"slug": "suntooth",
+		"url": "https://suntooth.online/webrings",
+		"owner": "https://neocities.org/site/suntooth"
 	}
 
 ]
