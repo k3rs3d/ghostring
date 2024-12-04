@@ -702,6 +702,13 @@
 		"slug": "cfangz",
 		"url": "https://cyberfangz.neocities.org/home",
 		"owner": "https://neocities.org/site/cyberfangz"
+	},
+
+	{
+		"name": "Fals Fiction",
+		"slug": "afals",
+		"url": "https://falsfiction.neocities.org/",
+		"owner": "https://neocities.org/site/falsfiction"
 	}
 
 ]
