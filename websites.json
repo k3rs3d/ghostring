@@ -709,6 +709,20 @@
 		"slug": "afals",
 		"url": "https://falsfiction.neocities.org/",
 		"owner": "https://neocities.org/site/falsfiction"
+	},
+
+	{
+		"name": "xx-starbrite-xx",
+		"slug": "starbrite",
+		"url": "https://xx-starbrite-xx.neocities.org/",
+		"owner": "https://neocities.org/site/xx-starbrite-xx"
+	},
+
+	{
+		"name": "FRESHFLESH",
+		"slug": "freshflesh",
+		"url": "https://freshflesh.neocities.org/",
+		"owner": "https://neocities.org/site/freshflesh"
 	}
 
 ]
