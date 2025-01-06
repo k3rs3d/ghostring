@@ -737,6 +737,13 @@
 		"about": "A personal website developed by a linguistics student exploring the internet.",
 		"url": "https://myrdin.is-a.dev/projects/blinkies-and-webring/",
 		"owner": "https://myrdin.is-a.dev/"
+	},
+	{
+		"name": "TheHolyTachanka",
+		"slug": "tht",
+		"about": "A personal blog",
+		"url": "https://theholytachanka.com",
+		"owner": "https://theholytachanka.com"
 	}
 
 ]
