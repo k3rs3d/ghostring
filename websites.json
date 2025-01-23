@@ -731,12 +731,20 @@
 		"url": "https://suntooth.online/webrings",
 		"owner": "https://neocities.org/site/suntooth"
 	},
+	
 	{
 		"name": "myrdin",
 		"slug": "myrdin",
 		"about": "A personal website developed by a linguistics student exploring the internet.",
 		"url": "https://myrdin.is-a.dev/projects/blinkies-and-webring/",
 		"owner": "https://myrdin.is-a.dev/"
+	},
+
+	{
+		"name": "gleefulpebble",
+		"slug": "gleefulpebble",
+		"url": "https://gleefulpebble.neocities.org/",
+		"owner": "https://neocities.org/site/gleefulpebble"
 	}
 
 ]
