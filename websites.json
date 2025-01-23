@@ -751,6 +751,14 @@
 		"name": "BUSTRR",
 		"slug": "BUSTRR",
 		"url": "https://buster.nekoweb.org/"
+	},
+
+	{
+		
+		"name": "nyght",
+		"slug": "nyght",
+		"url": "https://nyght.neocities.org/",
+		"owner": "https://neocities.org/site/nyght"
 	}
 
 ]
