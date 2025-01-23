@@ -767,6 +767,13 @@
 		"slug": "TalesFromTheStars",
 		"url": "https://talesfromthestars.neocities.org/",
 		"owner": "https://neocities.org/site/talesfromthestars"
+	},
+
+	{		
+		"name": "nondmo",
+		"slug": "nondmo",
+		"url": "https://nondmo.neocities.org/home",
+		"owner": "https://neocities.org/site/nondmo"
 	}
 
 ]
