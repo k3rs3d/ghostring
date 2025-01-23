@@ -774,6 +774,13 @@
 		"slug": "nondmo",
 		"url": "https://nondmo.neocities.org/home",
 		"owner": "https://neocities.org/site/nondmo"
+	},
+
+	{		
+		"name": "Duskrat",
+		"slug": "Dusk",
+		"url": "https://duskrat.neocities.org/",
+		"owner": "https://neocities.org/site/duskrat"
 	}
 
 ]
