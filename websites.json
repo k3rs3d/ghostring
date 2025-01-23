@@ -759,6 +759,14 @@
 		"slug": "nyght",
 		"url": "https://nyght.neocities.org/",
 		"owner": "https://neocities.org/site/nyght"
+	},
+
+	{
+		
+		"name": "TalesFromTheStars",
+		"slug": "TalesFromTheStars",
+		"url": "https://talesfromthestars.neocities.org/",
+		"owner": "https://neocities.org/site/talesfromthestars"
 	}
 
 ]
