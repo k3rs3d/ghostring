@@ -781,6 +781,13 @@
 		"slug": "Dusk",
 		"url": "https://duskrat.neocities.org/",
 		"owner": "https://neocities.org/site/duskrat"
-	}
-
-]
+    	},
+    {
+        "name": "Sectorfive",
+        "slug": "sectorfive",
+        "about": "Sectorfive.win is my personal space where I share projects, blog posts, and things that I find Interesting.",
+        "url": "https://sectorfive.win/",
+        "owner": "contact@sectorfive.win"
+    }
+    
+    ]
