@@ -839,4 +839,12 @@
 	"about": "A personal site for art, hobbies, blogging or whatever interests me",
 	"url": "https://ghostz.neocities.org/",
 	"owner": "https://neocities.org/site/ghostz"
+},
+
+{		
+	"name": "bluemiaou",
+	"slug": "bluemiaou",
+	"about": "Full of rainbows, cats, computers and GIFs. Contains handmade graphics, shrines dedicated to my interests and more!",
+	"url": "https://blue-miaou.neocities.org/home",
+	"owner": "https://neocities.org/site/blue-miaou"
 }
