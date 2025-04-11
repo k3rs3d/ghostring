@@ -861,4 +861,12 @@
 	"slug": "B0o",
 	"url": "https://bookerberry.neocities.org/",
 	"owner": "https://neocities.org/site/bookerberry"
+},
+
+{
+	"name": "The Olive Jar",
+	"slug": "olivejar",
+	"about": "Personal site of an illustrator with a love of BattleTech, music, and a bunch of other eclectic stuff.",
+	"url": "https://theolivejar.neocities.org/",
+	"owner": "https://neocities.org/site/theolivejar"
 }
