@@ -1,27 +1,27 @@
-[
+
     {
-        "name": "ghostring",
-        "slug": "ghostring",
-		"about": "You Are Here!",
-        "url": "https://ghostring.neocities.org/",
-		"owner": "https://ghostring.neocities.org/"
+      "name": "ghostring",
+      "slug": "ghostring",
+		  "about": "You Are Here!",
+      "url": "https://ghostring.neocities.org/",
+		  "owner": "https://ghostring.neocities.org/"
     },
 
     {
-        "name": "Kersed",
-        "slug": "kersed",
-		"about": "I run Ghostring, among other things!",
-        "url": "https://kersed.net/",
-		"rss": "http://kersed.net/index.xml",
-		"owner": "@kern@hol.ogra.ph"
+      "name": "Kersed",
+      "slug": "kersed",
+		  "about": "I run Ghostring, among other things!",
+      "url": "https://kersed.net/",
+		  "rss": "http://kersed.net/index.xml",
+		  "owner": "@kern@hol.ogra.ph"
     },
 
 	{
-        "name": "GhostSalt",
-        "slug": "ghostsalt",
-		"about": "Cutesy ghost who does modding and blogging! :3",
-        "url": "https://ghostsalt.neocities.org/buttons-etc",
-		"owner": "https://ghostsalt.neocities.org/"
+      "name": "GhostSalt",
+      "slug": "ghostsalt",
+		  "about": "Cutesy ghost who does modding and blogging! :3",
+      "url": "https://ghostsalt.neocities.org/buttons-etc",
+		  "owner": "https://ghostsalt.neocities.org/"
     },
 
 	{
@@ -587,7 +587,7 @@
 		"about": "Personal and creative site of a person who loves the supernatural and space.",
 		"url": "https://ectobeing.neocities.org/",
 		"owner": "ectobeing@pm.me"
-},
+  },
 	
 	{
 		"name": "redredsunabove",
@@ -776,11 +776,19 @@
 		"owner": "https://neocities.org/site/nondmo"
 	},
 
-	{		
+  {		
 		"name": "Duskrat",
 		"slug": "Dusk",
 		"url": "https://duskrat.neocities.org/",
 		"owner": "https://neocities.org/site/duskrat"
+  },
+  
+  {
+        "name": "Sectorfive",
+        "slug": "sectorfive",
+        "about": "Sectorfive.win is my personal space where I share projects, blog posts, and things that I find Interesting.",
+        "url": "https://sectorfive.win/",
+        "owner": "contact@sectorfive.win"
 	},
 	
 	{		
