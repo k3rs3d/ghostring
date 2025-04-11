@@ -831,4 +831,12 @@
 	"slug": "ORLANDO",
 	"url": "https://orlandoscoffee.neocities.org/",
 	"owner": "https://neocities.org/site/orlandoscoffee"
+},
+
+{		
+	"name": "Ghosttown",
+	"slug": "Ghosttown",
+	"about": "A personal site for art, hobbies, blogging or whatever interests me",
+	"url": "https://ghostz.neocities.org/",
+	"owner": "https://neocities.org/site/ghostz"
 }
