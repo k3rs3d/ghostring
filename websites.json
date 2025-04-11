@@ -801,4 +801,11 @@
 	"about": "list of trans resources, game recommendations, music, and some buttons.",
 	"url": "https://dykefag.com/",
 	"owner": "website@dykefag.com"
+},
+
+{		
+	"name": "lobolab",
+	"slug": "lobolab",
+	"url": "https://lobolab.neocities.org/links",
+	"owner": "https://neocities.org/site/lobolab"
 }
