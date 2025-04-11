@@ -781,6 +781,13 @@
 		"slug": "Dusk",
 		"url": "https://duskrat.neocities.org/",
 		"owner": "https://neocities.org/site/duskrat"
+	},
+	
+	{		
+		"name": "Caminus",
+		"slug": "caminus",
+		"url": "https://caminus.neocities.org/",
+		"owner": "https://neocities.org/site/caminus"
 	}
 
 ]
