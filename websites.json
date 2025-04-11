@@ -796,6 +796,14 @@
 		"slug": "caminus",
 		"url": "https://caminus.neocities.org/",
 		"owner": "https://neocities.org/site/caminus"
+	},
+
+	{		
+		"name": "dykefag",
+		"slug": "dykefag",
+		"about": "list of trans resources, game recommendations, music, and some buttons.",
+		"url": "https://dykefag.com/",
+		"owner": "website@dykefag.com"
 	}
 
 ]
