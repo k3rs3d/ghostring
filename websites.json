@@ -1,3 +1,4 @@
+[
 {
 	"name": "ghostring",
 	"slug": "ghostring",
@@ -724,6 +725,14 @@
 },
 
 {
+	"name": "TheHolyTachanka",
+	"slug": "tht",
+	"about": "A personal blog",
+	"url": "https://theholytachanka.com",
+	"owner": "https://theholytachanka.com"
+},
+
+{
 	"name": "suntooth",
 	"slug": "suntooth",
 	"url": "https://suntooth.online/webrings",
@@ -878,3 +887,4 @@
 	"url": "https://slayersalem.neocities.org/",
 	"owner": "https://neocities.org/site/slayersalem"
 }
+]
