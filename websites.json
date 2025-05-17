@@ -1,786 +1,890 @@
 [
-    {
-        "name": "ghostring",
-        "slug": "ghostring",
-		"about": "You Are Here!",
-        "url": "https://ghostring.neocities.org/",
-		"owner": "https://ghostring.neocities.org/"
-    },
+{
+	"name": "ghostring",
+	"slug": "ghostring",
+	"about": "You Are Here!",
+	"url": "https://ghostring.neocities.org/",
+	"owner": "https://ghostring.neocities.org/"
+},
 
-    {
-        "name": "Kersed",
-        "slug": "kersed",
-		"about": "I run Ghostring, among other things!",
-        "url": "https://kersed.net/",
-		"rss": "http://kersed.net/index.xml",
-		"owner": "@kern@hol.ogra.ph"
-    },
+{
+	"name": "Kersed",
+	"slug": "kersed",
+	"about": "I run Ghostring, among other things!",
+	"url": "https://kersed.net/",
+	"rss": "http://kersed.net/index.xml",
+	"owner": "@kern@hol.ogra.ph"
+},
 
-	{
-        "name": "GhostSalt",
-        "slug": "ghostsalt",
-		"about": "Cutesy ghost who does modding and blogging! :3",
-        "url": "https://ghostsalt.neocities.org/buttons-etc",
-		"owner": "https://ghostsalt.neocities.org/"
-    },
+{
+	"name": "GhostSalt",
+	"slug": "ghostsalt",
+	"about": "Cutesy ghost who does modding and blogging! :3",
+	"url": "https://ghostsalt.neocities.org/buttons-etc",
+	"owner": "https://ghostsalt.neocities.org/"
+},
 
-	{
-		"name": "Harvest Home",
-		"slug": "harvest-home",
-		"url": "https://harvest-home.neocities.org/"
-	},
+{
+	"name": "Harvest Home",
+	"slug": "harvest-home",
+	"url": "https://harvest-home.neocities.org/"
+},
 
-	{
+{
         "name": "gh0sted",
         "slug": "gh0sted",
-		"about": "sewer",
+	"about": "sewer",
         "url": "https://gh0sted.neocities.org/",
-		"owner": "https://neocities.org/site/gh0sted"
-    },
+	"owner": "https://neocities.org/site/gh0sted"
+},
 
-	{
+{
         "name": "teenagegirlboy",
         "slug": "teenagegirlboy",
         "url": "https://teenagegirlboy.neocities.org/",
-		"owner": "https://neocities.org/site/teenagegirlboy"
-    },
+	"owner": "https://neocities.org/site/teenagegirlboy"
+},
 
-	{
+{
         "name": "Real Live Ghost",
         "slug": "realliveghost",
-		"about": "Music / Art / Writing / Information Sharing / Consciousness",
+	"about": "Music / Art / Writing / Information Sharing / Consciousness",
         "url": "https://realliveghost.com",
-		"owner": "realliveghostmusic@gmail.com"
-    },
+	"owner": "realliveghostmusic@gmail.com"
+},
 
-	{
+{
         "name": "fruitscones",
         "slug": "fruitscones",
-		"about": "A personal site dedicated to horror, jjba and a bunch of other stuff",
+	"about": "A personal site dedicated to horror, jjba and a bunch of other stuff",
         "url": "https://fruitscones.neocities.org/main/main",
-		"owner": "https://neocities.org/site/fruitscones"
-    },
+	"owner": "https://neocities.org/site/fruitscones"
+},
+
+{
+	"name": "Hellmouth",
+	"slug": "hellmouth",
+	"about": "",
+	"url": "https://hell-mouth.neocities.org/",
+	"owner": "https://neocities.org/sites/hell-mouth/"
+},
+
+{
+	"name": "The Priestwife",
+	"slug": "priestwife",
+	"about": "The Priestwife is a weird, gory horror/fantasy webcomic about living with things that kill you. Upates the third Thursday of each month. ",
+	"url": "https://priestwife.neocities.org/main",
+	"rss": "https://cohost.org/priestwife/",
+	"owner": "@Priestwife@mellified.men"
+},
+
+{
+	"name": "Monty's Mortuary",
+	"slug": "montys-mortuary",
+	"about": "Horror movies, goth music, and all things creepy and crawly ",
+	"url": "https://montysmortuary.neocities.org/",
+	"owner": "https://neocities.org/site/montysmortuary/"
+},
+
+{
+	"name": "foreverliketh.is",
+	"slug": "foreverlikethis",
+	"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
+	"url": "https://foreverliketh.is/",
+	"owner": "hi@foreverliketh.is"
+},
+
+{
+	"name": "Elbowthief",
+	"slug": "elbowthief",
+	"url": "https://elbowthief.neocities.org/",
+	"owner": "https://neocities.org/site/elbowthief/"
+},
+
+{
+	"name": "PROPHETESQUE",
+	"slug": "prophetesque",
+	"about": "the personal blog of a queer transfag furby guy.",
+	"url": "https://prophetesque.gay/affiliates",
+	"owner": "https://neocities.org/site/prophetesque"
+},
+
+{
+	"name": "GIANTGHOST",
+	"slug": "GIANTGHOST",
+	"about": "Neocities hackersound hardcore mod music.",
+	"url": "https://giantghost.net/", 
+	"rss": "https://giantghost.net/rss.xml",
+	"owner": "ghost@giantghost.net"
+},
+
+{
+	"name": "trash and trash",
+	"slug": "trashandtrash",
+	"about": "a personal vocaloid themed site dedicated to an artist's nerdy interests",
+	"url": "https://trashandtrash.neocities.org/about",
+	"owner": "https://neocities.org/site/trashandtrash"
+},
+
+{
+	"name": "Corvidae Galaxy",
+	"slug": "corvidae",
+	"about": "my personal digital space! features my art, blog, collections, and more! :D",
+	"url": "https://corvidae.digital/",
+	"owner": "https://corvidae.digital/"
+},
+
+{
+	"name": "DNAzone",
+	"slug": "dna",
+	"about": "A personal site about art, DIY occult things, and anything else that interests me.",
+	"url": "https://friofresco.neocities.org/",
+	"owner": "https://neocities.org/site/friofresco/"
+},
+
+{
+	"name": "baccyflap.com",
+	"slug": "bfc",
+	"about": "last homely site east of the tubes",
+	"url": "http://baccyflap.com/rsp/",
+	"owner": "rmf"
+},
+
+{
+	"name": "Caesthoffe",
+	"slug": "caesthoffe",
+	"about": "a nerdcore punk-esque grunge nu-metalhead's personal project; filled with art, music, and other oddities!",
+	"url": "https://caesthoffe.neocities.org",
+	"owner": "https://neocities.org/site/caesthoffe/"
+},
+
+{
+	"name": "ghostsite",
+	"slug": "ghostsite",
+	"about": "A rambling catalogue of all the ghouls, ghosts, and spectors you may never see",
+	"url": "https://ghostsite.neocities.org/",
+	"owner": "https://neocities.org/site/ghostsite"
+},
+
+{
+	"name": "Cryptid Diaries",
+	"slug": "cryptid-diaries",
+	"about": "Personal blog of investigative journalist and cryptozoologist",
+	"url": "https://cryptid-diaries.neocities.org/",
+	"owner": "https://neocities.org/site/cryptid-diaries/"
+},
+
+{
+	"name": "Swamp Gremlin",
+	"slug": "swampgremlin",
+	"about": "Horror comic writer/ illustrator, we have spooks, specters, old men and my unsolicited opinion on things",
+	"url": "https://swampgremlin.neocities.org/",
+	"owner": "https://neocities.org/site/swampgremlin/"
+},
+
+{
+	"name": "GHOST HOUSE",
+	"slug": "ghosthoused",
+	"about": "a text-based haunted house adventure story",
+	"url": "https://ghost-house.neocities.org/",
+	"owner": "ratnukegenius@gmail.com"
+},
+
+{
+	"name": "sammylux",
+	"slug": "sammylux",
+	"about": "I'm a trad goth, an artist, a horror lover. I post about anything that interests me, I maintain an art gallery and I try to learn html :-)",
+	"url": "https://sammylux.neocities.org/",
+	"owner": "https://neocities.org/site/sammylux"
+},
+
+{
+	"name": "The Cabinet of Curiosities",
+	"slug": "curiosity_cabinet",
+	"about": "I'm an author and aspiring novelist, my work focusing on the horrifying, the taboo, and all things macabre!",
+	"url": "https://slysable.neocities.org/isoabout",
+	"owner": "https://neocities.org/site/slysable/"
+},
+
+{
+	"name": "Mila Sem Cabeça",
+	"slug": "headlessghost",
+	"about": "i am an artist and a musician and this is the place where i get to scream about my love and obssession with horror movies and spooky stuff!!",
+	"url": "https://milasemcabeca.neocities.org/",
+	"owner": "https://neocities.org/site/milasemcabeca/"
+},
+
+{
+	"name": "Daryl Sun's Journal",
+	"slug": "darylsun",
+	"about": "An online diary of a lady's misadventures in two worlds",
+	"url": "https://blog.darylsun.page/",
+	"rss": "https://blog.darylsun.page/rss.xml",
+	"owner": "hello@darylsun.page"
+},
+
+{
+	"name": "The Walten Files Infodump",
+	"slug": "twfinfo",
+	"about": "my website for infodumping about the walten files :P",
+	"url": "https://twfinfo.neocities.org/",
+	"owner": "https://neocities.org/site/twinfo/"
+},
+
+{
+	"name": "Duskspirals",
+	"slug": "Duskspirals",
+	"about": "I'm a Worldbuilder and Writer who loves to explore dark and spooooooooky topics through my work! Also drop by if you want to hear about my love for weird obscure indie games and music.",
+	"url": "https://duskspirals.neocities.org/",
+	"owner": "https://neocities.org/site/duskspirals"
+},
+
+{
+	"name": "Hidden Webpage",
+	"slug": "hiddenwebpage",
+	"url": "https://hiddenwebpage.neocities.org/",
+	"owner": "https://neocities.org/site/hiddenwebpage/"
+},
+
+{
+	"name": "Appsir Games",
+	"slug": "AppSir",
+	"about": "A website for retro horror games with intertwined stories.",
+	"url": "https://appsirgames.neocities.org/home",
+	"owner": "Twitter @appsirgames"
+},
+
+{
+	"name": "Hungry on Main",
+	"slug": "HOM",
+	"url": "https://hungryonmain.neocities.org/home",
+	"owner": "https://neocities.org/site/hungryonmain/"
+},
+
+{
+	"name": "Happy Monkey",
+	"slug": "HAPPYM",
+	"about": "My page for my interests, hobbies, art and love for music.",
+	"url": "https://happymonkey.neocities.org/",
+	"owner": "https://neocities.org/site/happymonkey/"
+},
+
+{
+	"name": "Infinite Bearr",
+	"slug": "BEARR",
+	"about": "a personal, funky website made by a ghost and a boy. not very spooky because friendly ghosts are a thing.",
+	"url": "https://infinitebearr.neocities.org/links",
+	"owner": "https://neocities.org/site/infinitebearr/"
+},
+
+{
+	"name": "oerrorpage",
+	"slug": "YOUR_SLUG",
+	"about": "a misc website about...",
+	"url": "https://oerrorpage.neocities.org/",
+	"owner": "https://neocities.org/site/oerrorpage"
+},
+
+{
+	"name": "Castor's Walk",
+	"slug": "castorswalk",
+	"about": "An online collection of original horror fiction",
+	"url": "https://castorswalk.neocities.org/",
+	"owner": "castorswalk@gmail.com"
+},
+
+{
+	"name": "ANARCHYSIN",
+	"slug": "vamp",
+	"about": "a horror loving vampire's personal site to showcase interests and practice coding",
+	"url": "https://anarchysin.neocities.org/",
+	"owner": "https://neocities.org/site/anarchysin"
+},
+
+{
+	"name": "bloodthirsty masquerade",
+	"slug": "bloodthirsty",
+	"about": "gothic site dedicated to music, art, and pro wrestling run by a transmasc vampyre.",
+	"url": "https://bloodthirstymasquerade.neocities.org/links.html",
+	"owner": "https://neocities.org/site/bloodthirstymasquerade"
+},
+
+{
+	"name": "multo's graveyard",
+	"slug": "multo",
+	"about": "a personal cyber graveyard-themed website for experimenting w/ code, writing and art",
+	"url": "https://multohhh.neocities.org/yours/paradiso",
+	"owner": "https://neocities.org/site/multohhhb"
+},
+
+{
+	"name": "Naruto: The Unsung Story Wiki",
+	"slug": "usw",
+	"about": "An independently maintained database for the unpublished Naruto fanfiction, 'The Unsung Story' or 'En'noshita Monogatari'",
+	"url": "https://unsungstorywiki.neocities.org/webmaster/",
+	"owner": "https://neocities.org/site/unsungstorywiki"
+},
+
+{
+	"name": "Raven Files",
+	"slug": "raven-files",
+	"about": "a slightly random, gothy personal site",
+	"url": "https://raven-files.neocities.org/",
+	"owner": "https://neocities.org/site/raven-files"
+},
+
+{
+	"name": "horrorlad",
+	"slug": "horrorlad",
+	"about": "a largely horror-focused blogging space, lovingly stitched together by a 30-something transgay.",
+	"url": "https://horrorlad.neocities.org/landing",
+	"owner": "https://neocities.org/site/horrorlad"
+},
+
+{
+	"name": "robynne's nest",
+	"slug": "robynne",
+	"about": "personyal blog of a gothy, nihilist queerdo",
+	"url": "https://robynnesnest.click/",
+	"owner": "@robynne@woem.men"
+},
+
+{
+	"name": "Emo Cowboy",
+	"slug": "emocowboy",
+	"about": "the emo-est website on the net",
+	"url": "https://emocowboy.neocities.org/",
+	"owner": "https://neocities.com/site/emocowboy"
+},
+
+{
+	"name": "Manyface",
+	"slug": "manyface",
+	"about": "A nice place for a system called Manyface. We like to make art and do lots of other things!",
+	"url": "https://manyface.neocities.org/",
+	"rss": "https://manyface.neocities.org/feed.xml",
+	"owner": "https://manyface.neocities.org/contact"
+},
+
+{
+	"name": "WIZARDPORTAL333",
+	"slug": "WIZARD333",
+	"about": "a personal blog & echo chamber for making and appreciating all kinds of ART!! :D",
+	"url": "https://wizardportal333.neocities.org/",
+	"owner": "https://neocities.org/site/wizardportal333/"
+},
+
+{
+	"name": "𓋹 Hydraheads 𓋹",
+	"slug": "hydraheads",
+	"about": "Tarantulas, stories, books, drawings and other madness",
+	"url": "https://hydraheads.neocities.org/",
+	"owner": "https://neocities.org/site/hydraheads"
+},
+
+{
+	"name": "Hemwick Lane",
+	"slug": "hemwick-lane",
+	"about": "Pastel Pink Horror",
+	"url": "https://hemwick-lane.neocities.org/",
+	"owner": "https://neocities.org/site/hemwick-lane/"
+},
+
+{
+	"name": "smock",
+	"slug": "smock",
+	"about": "blog, recommendations, and more !",
+	"url": "https://smock.neocities.org/",
+	"owner": "https://smock.neocities.org/page/me"
+},
+
+{
+	"name": "Jadestrogen",
+	"slug": "jadestrogen",
+	"about": "Cringelord Extraordinaire",
+	"url": "https://queenofbluescreens.neocities.org/home",
+	"owner": "https://queenofbluescreens.neocities.org/home"
+},
+
+{
+	"name": "⋆⋅ marsh.com ⋅⋆",
+	"slug": "marshdotcom",
+	"about": "personal site of a wizard that lives at the end of a rainbow",
+	"url": "https://marshdotcom.neocities.org/",
+	"owner": "https://neocities.org/site/marshdotcom"
+},
+
+{
+	"name": "doggrl",
+	"slug": "doggrl",
+	"about": "dog-thing makes music and does rituals right in your browser!",
+	"url": "https://dggrl.neocities.org/",
+	"owner": "https://neocities.org/site/dggrl"
+},
+
+{
+	"name": "noisecorvid",
+	"slug": "noisecorvid",
+	"about": "a digital playground of a horror-obsessed crow.",
+	"url": "https://noisecorvid.neocities.org/",
+	"owner": "https://noisecorvid.neocities.org/myspace"
+},
+
+{
+	"name": "crtstatic",
+	"slug": "ikaroll",
+	"url": "https://crtstatic.neocities.org/"
+},
+
+{
+	"name": "aldernea",
+	"slug": "aldernea",
+	"about": "A humble place where I post my writings",
+	"url": "https://aldernea.neocities.org/inicio",
+	"owner": "https://neocities.org/site/aldernea"
+},
+
+{
+	"name": "yetiuard",
+	"slug": "yetiuard",
+	"about": "A place where I host some small projects",
+	"url": "https://yetiuard.wtf/"
+},
+
+{
+	"name": "Grimm's Occult Corner",
+	"slug": "grimms",
+	"about": "A website for my posting about supernatural creatures and beliefs",
+	"url": "https://grimms-occult-corner.neocities.org/homepage",
+	"owner": "https://batty-blogs.neocities.org/"
+},
+
+{
+	"name": "Xx_halfempty_xX",
+	"slug": "halfempty",
+	"about": "A site for me, beauty, and animals",
+	"url": "https://xxhalfemptyxx.neocities.org/",
+	"owner": "https://xxhalfemptyxx.neocities.org/phonebook"
+},
 
 	{
-		"name": "Hellmouth",
-		"slug": "hellmouth",
-		"about": "",
-		"url": "https://hell-mouth.neocities.org/",
-		"owner": "https://neocities.org/sites/hell-mouth/"
+	"name": "Half-Drowned Hound",
+	"slug": "hound",
+	"about": "A personal site with and entire section for horror- reviews, short stories, essays, etc.",
+	"url": "http://drownedhound.neocities.org/links",
+	"owner": "drownedhoundneo@gmail.com"
 	},
 
-	{
-		"name": "The Priestwife",
-		"slug": "priestwife",
-		"about": "The Priestwife is a weird, gory horror/fantasy webcomic about living with things that kill you. Upates the third Thursday of each month. ",
-		"url": "https://priestwife.neocities.org/main",
-		"rss": "https://cohost.org/priestwife/",
-		"owner": "@Priestwife@mellified.men"
-	},
-
-	{
-		"name": "Monty's Mortuary",
-		"slug": "montys-mortuary",
-		"about": "Horror movies, goth music, and all things creepy and crawly ",
-		"url": "https://montysmortuary.neocities.org/",
-		"owner": "https://neocities.org/site/montysmortuary/"
-	},
-
-	{
-		"name": "foreverliketh.is",
-		"slug": "foreverlikethis",
-		"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
-		"url": "https://foreverliketh.is/",
-		"owner": "hi@foreverliketh.is"
-  },
-
-  {
-		"name": "Elbowthief",
-		"slug": "elbowthief",
-		"url": "https://elbowthief.neocities.org/",
-		"owner": "https://neocities.org/site/elbowthief/"
-	},
-
-
-	{
-		"name": "PROPHETESQUE",
-		"slug": "prophetesque",
-		"about": "the personal blog of a queer transfag furby guy.",
-		"url": "https://prophetesque.gay/affiliates",
-		"owner": "https://neocities.org/site/prophetesque"
-	},
-
-	{
-		"name": "GIANTGHOST",
-		"slug": "GIANTGHOST",
-		"about": "Neocities hackersound hardcore mod music.",
-		"url": "https://giantghost.net/", 
-		"rss": "https://giantghost.net/rss.xml",
-		"owner": "ghost@giantghost.net"
-	},
-
-	{
-		"name": "trash and trash",
-		"slug": "trashandtrash",
-		"about": "a personal vocaloid themed site dedicated to an artist's nerdy interests",
-		"url": "https://trashandtrash.neocities.org/about",
-		"owner": "https://neocities.org/site/trashandtrash"
-	},
-
-	{
-		"name": "Corvidae Galaxy",
-		"slug": "corvidae",
-		"about": "my personal digital space! features my art, blog, collections, and more! :D",
-		"url": "https://corvidae.digital/",
-		"owner": "https://corvidae.digital/"
-	},
-
-	{
-		"name": "DNAzone",
-		"slug": "dna",
-		"about": "A personal site about art, DIY occult things, and anything else that interests me.",
-		"url": "https://friofresco.neocities.org/",
-		"owner": "https://neocities.org/site/friofresco/"
-	},
-
-	{
-		"name": "baccyflap.com",
-		"slug": "bfc",
-		"about": "last homely site east of the tubes",
-		"url": "http://baccyflap.com/rsp/",
-		"owner": "rmf"
-	},
-
-	{
-		"name": "Caesthoffe",
-		"slug": "caesthoffe",
-		"about": "a nerdcore punk-esque grunge nu-metalhead's personal project; filled with art, music, and other oddities!",
-		"url": "https://caesthoffe.neocities.org",
-		"owner": "https://neocities.org/site/caesthoffe/"
-	},
-
-	{
-		"name": "ghostsite",
-		"slug": "ghostsite",
-		"about": "A rambling catalogue of all the ghouls, ghosts, and spectors you may never see",
-		"url": "https://ghostsite.neocities.org/",
-		"owner": "https://neocities.org/site/ghostsite"
-	},
-
-	{
-		"name": "Cryptid Diaries",
-		"slug": "cryptid-diaries",
-		"about": "Personal blog of investigative journalist and cryptozoologist",
-		"url": "https://cryptid-diaries.neocities.org/",
-		"owner": "https://neocities.org/site/cryptid-diaries/"
-	},
-
-	{
-		"name": "Swamp Gremlin",
-		"slug": "swampgremlin",
-		"about": "Horror comic writer/ illustrator, we have spooks, specters, old men and my unsolicited opinion on things",
-		"url": "https://swampgremlin.neocities.org/",
-		"owner": "https://neocities.org/site/swampgremlin/"
-	},
-
-	{
-		"name": "GHOST HOUSE",
-		"slug": "ghosthoused",
-		"about": "a text-based haunted house adventure story",
-		"url": "https://ghost-house.neocities.org/",
-		"owner": "ratnukegenius@gmail.com"
-	},
-
-	{
-		"name": "sammylux",
-		"slug": "sammylux",
-		"about": "I'm a trad goth, an artist, a horror lover. I post about anything that interests me, I maintain an art gallery and I try to learn html :-)",
-		"url": "https://sammylux.neocities.org/",
-		"owner": "https://neocities.org/site/sammylux"
-	},
-
-	{
-		"name": "The Cabinet of Curiosities",
-		"slug": "curiosity_cabinet",
-		"about": "I'm an author and aspiring novelist, my work focusing on the horrifying, the taboo, and all things macabre!",
-		"url": "https://slysable.neocities.org/isoabout",
-		"owner": "https://neocities.org/site/slysable/"
-	},
-
-	{
-		"name": "Mila Sem Cabeça",
-		"slug": "headlessghost",
-		"about": "i am an artist and a musician and this is the place where i get to scream about my love and obssession with horror movies and spooky stuff!!",
-		"url": "https://milasemcabeca.neocities.org/",
-		"owner": "https://neocities.org/site/milasemcabeca/"
-	},
-
-    {
-        "name": "Daryl Sun's Journal",
-        "slug": "darylsun",
-		"about": "An online diary of a lady's misadventures in two worlds",
-        "url": "https://blog.darylsun.page/",
-		"rss": "https://blog.darylsun.page/rss.xml",
-		"owner": "hello@darylsun.page"
-    },
-
-	{
-		"name": "The Walten Files Infodump",
-		"slug": "twfinfo",
-		"about": "my website for infodumping about the walten files :P",
-		"url": "https://twfinfo.neocities.org/",
-		"owner": "https://neocities.org/site/twinfo/"
-	},
-
-	{
-		"name": "Duskspirals",
-		"slug": "Duskspirals",
-		"about": "I'm a Worldbuilder and Writer who loves to explore dark and spooooooooky topics through my work! Also drop by if you want to hear about my love for weird obscure indie games and music.",
-		"url": "https://duskspirals.neocities.org/",
-		"owner": "https://neocities.org/site/duskspirals"
-	},
-
-	{
-		"name": "Hidden Webpage",
-		"slug": "hiddenwebpage",
-		"url": "https://hiddenwebpage.neocities.org/",
-		"owner": "https://neocities.org/site/hiddenwebpage/"
-	},
-
-	{
-		"name": "Appsir Games",
-		"slug": "AppSir",
-		"about": "A website for retro horror games with intertwined stories.",
-		"url": "https://appsirgames.neocities.org/home",
-		"owner": "Twitter @appsirgames"
-	},
-
-	{
-		"name": "Hungry on Main",
-		"slug": "HOM",
-		"url": "https://hungryonmain.neocities.org/home",
-		"owner": "https://neocities.org/site/hungryonmain/"
-	},
-
-	{
-		"name": "Happy Monkey",
-		"slug": "HAPPYM",
-		"about": "My page for my interests, hobbies, art and love for music.",
-		"url": "https://happymonkey.neocities.org/",
-		"owner": "https://neocities.org/site/happymonkey/"
-	},
-
-	{
-		"name": "Infinite Bearr",
-		"slug": "BEARR",
-		"about": "a personal, funky website made by a ghost and a boy. not very spooky because friendly ghosts are a thing.",
-		"url": "https://infinitebearr.neocities.org/links",
-		"owner": "https://neocities.org/site/infinitebearr/"
-	},
-
-	{
-		"name": "oerrorpage",
-		"slug": "YOUR_SLUG",
-		"about": "a misc website about...",
-		"url": "https://oerrorpage.neocities.org/",
-		"owner": "https://neocities.org/site/oerrorpage"
-	},
-
-	{
-		"name": "Castor's Walk",
-		"slug": "castorswalk",
-		"about": "An online collection of original horror fiction",
-		"url": "https://castorswalk.neocities.org/",
-		"owner": "castorswalk@gmail.com"
-	},
-
-	{
-		"name": "ANARCHYSIN",
-		"slug": "vamp",
-		"about": "a horror loving vampire's personal site to showcase interests and practice coding",
-		"url": "https://anarchysin.neocities.org/",
-		"owner": "https://neocities.org/site/anarchysin"
-	},
-
-	{
-		"name": "bloodthirsty masquerade",
-		"slug": "bloodthirsty",
-		"about": "gothic site dedicated to music, art, and pro wrestling run by a transmasc vampyre.",
-		"url": "https://bloodthirstymasquerade.neocities.org/links.html",
-		"owner": "https://neocities.org/site/bloodthirstymasquerade"
-	},
-
-	{
-		"name": "multo's graveyard",
-		"slug": "multo",
-		"about": "a personal cyber graveyard-themed website for experimenting w/ code, writing and art",
-		"url": "https://multohhh.neocities.org/yours/paradiso",
-		"owner": "https://neocities.org/site/multohhhb"
-	},
-
-	{
-		"name": "Naruto: The Unsung Story Wiki",
-		"slug": "usw",
-		"about": "An independently maintained database for the unpublished Naruto fanfiction, 'The Unsung Story' or 'En'noshita Monogatari'",
-		"url": "https://unsungstorywiki.neocities.org/webmaster/",
-		"owner": "https://neocities.org/site/unsungstorywiki"
-	},
-
-	{
-		"name": "Raven Files",
-		"slug": "raven-files",
-		"about": "a slightly random, gothy personal site",
-		"url": "https://raven-files.neocities.org/",
-		"owner": "https://neocities.org/site/raven-files"
-	},
-
-	{
-		"name": "horrorlad",
-		"slug": "horrorlad",
-		"about": "a largely horror-focused blogging space, lovingly stitched together by a 30-something transgay.",
-		"url": "https://horrorlad.neocities.org/landing",
-		"owner": "https://neocities.org/site/horrorlad"
-	},
-
-	{
-		"name": "robynne's nest",
-		"slug": "robynne",
-		"about": "personyal blog of a gothy, nihilist queerdo",
-		"url": "https://robynnesnest.click/",
-		"owner": "@robynne@woem.men"
-	},
-
-	{
-		"name": "Emo Cowboy",
-		"slug": "emocowboy",
-		"about": "the emo-est website on the net",
-		"url": "https://emocowboy.neocities.org/",
-		"owner": "https://neocities.com/site/emocowboy"
-	},
-
-	{
-		"name": "Manyface",
-		"slug": "manyface",
-		"about": "A nice place for a system called Manyface. We like to make art and do lots of other things!",
-		"url": "https://manyface.neocities.org/",
-		"rss": "https://manyface.neocities.org/feed.xml",
-		"owner": "https://manyface.neocities.org/contact"
-	},
-
-	{
-		"name": "WIZARDPORTAL333",
-		"slug": "WIZARD333",
-		"about": "a personal blog & echo chamber for making and appreciating all kinds of ART!! :D",
-		"url": "https://wizardportal333.neocities.org/",
-		"owner": "https://neocities.org/site/wizardportal333/"
-	},
-
-	{
-		"name": "𓋹 Hydraheads 𓋹",
-		"slug": "hydraheads",
-		"about": "Tarantulas, stories, books, drawings and other madness",
-		"url": "https://hydraheads.neocities.org/",
-		"owner": "https://neocities.org/site/hydraheads"
-	},
-
-	{
-		"name": "Hemwick Lane",
-		"slug": "hemwick-lane",
-		"about": "Pastel Pink Horror",
-		"url": "https://hemwick-lane.neocities.org/",
-		"owner": "https://neocities.org/site/hemwick-lane/"
-	},
-
-	{
-		"name": "smock",
-		"slug": "smock",
-		"about": "blog, recommendations, and more !",
-		"url": "https://smock.neocities.org/",
-		"owner": "https://smock.neocities.org/page/me"
-	},
-
-	{
-		"name": "Jadestrogen",
-		"slug": "jadestrogen",
-		"about": "Cringelord Extraordinaire",
-		"url": "https://queenofbluescreens.neocities.org/home",
-		"owner": "https://queenofbluescreens.neocities.org/home"
-	},
-
-	{
-		"name": "⋆⋅ marsh.com ⋅⋆",
-		"slug": "marshdotcom",
-		"about": "personal site of a wizard that lives at the end of a rainbow",
-		"url": "https://marshdotcom.neocities.org/",
-		"owner": "https://neocities.org/site/marshdotcom"
-	},
-
-	{
-		"name": "doggrl",
-		"slug": "doggrl",
-		"about": "dog-thing makes music and does rituals right in your browser!",
-		"url": "https://dggrl.neocities.org/",
-		"owner": "https://neocities.org/site/dggrl"
-	},
-
-	{
-		"name": "noisecorvid",
-		"slug": "noisecorvid",
-		"about": "a digital playground of a horror-obsessed crow.",
-		"url": "https://noisecorvid.neocities.org/",
-		"owner": "https://noisecorvid.neocities.org/myspace"
-	},
-
-	{
-		"name": "crtstatic",
-		"slug": "ikaroll",
-		"url": "https://crtstatic.neocities.org/"
-	},
-
-	{
-		"name": "aldernea",
-		"slug": "aldernea",
-		"about": "A humble place where I post my writings",
-		"url": "https://aldernea.neocities.org/inicio",
-		"owner": "https://neocities.org/site/aldernea"
-	},
-
-	{
-		"name": "yetiuard",
-		"slug": "yetiuard",
-		"about": "A place where I host some small projects",
-		"url": "https://yetiuard.wtf/"
-	},
-
-	{
-		"name": "Grimm's Occult Corner",
-		"slug": "grimms",
-		"about": "A website for my posting about supernatural creatures and beliefs",
-		"url": "https://grimms-occult-corner.neocities.org/homepage",
-		"owner": "https://batty-blogs.neocities.org/"
-	},
-
-	{
-		"name": "Xx_halfempty_xX",
-		"slug": "halfempty",
-		"about": "A site for me, beauty, and animals",
-		"url": "https://xxhalfemptyxx.neocities.org/",
-		"owner": "https://xxhalfemptyxx.neocities.org/phonebook"
-	},
-
-	{
-		"name": "Half-Drowned Hound",
-		"slug": "hound",
-		"about": "A personal site with and entire section for horror- reviews, short stories, essays, etc.",
-		"url": "http://drownedhound.neocities.org/links",
-		"owner": "drownedhoundneo@gmail.com"
-	},
-
-	{
-		"name": "Lelukin's Hub",
-        "slug": "leilukin",
-        "about": "Personal website of Leilukin dedicated to queerness and various interests.",
-        "url": "https://leilukin.com/",
-        "rss": "https://leilukin.com/feed.xml",
-        "owner": "contact@leilukin.com"
-	},
+{
+	"name": "Lelukin's Hub",
+	"slug": "leilukin",
+	"about": "Personal website of Leilukin dedicated to queerness and various interests.",
+	"url": "https://leilukin.com/",
+	"rss": "https://leilukin.com/feed.xml",
+	"owner": "contact@leilukin.com"
+},
   
-	{
-		"name": "Alberto Prado",
-		"slug": "alprado",
-		"about": "A personal space that keeps me sane from complexity",
-		"url": "https://alprado.com/",
-		"owner": "luis@alprado.com"
-	},
-	
-	{
-		"name": "El Taller De Overns",
-		"slug": "eltallerdeoverns",
-		"about": "un blog sobre mi y mis gustos",
-		"url": "https://overnsworkshop.neocities.org/",
-		"owner": "https://neocities.org/site/overnsworkshop"
-	},
-	
-	{
-		"name": "Venus in Foxfurs",
-		"slug": "venusinfoxfurs",
-		"about": "a silly personal site and works compendium!",
-		"url": "https://venusinfoxfurs.neocities.org/",
-		"owner": "a3s3u3ra@gmail.com"
-	},
-
-	{
-		"name": "The Honey Pot",
-		"slug": "honeypot",
-		"about": "A personal site that talks about software development, cooking, and gets nostalgic about games",
-		"url": "https://thehoneypot.neocities.org/",
-		"owner": "https://neocities.org/site/thehoneypot"
-	},
-	
-	{
-		"name": "augustaquarium",
-		"slug": "augustaquarium",
-		"about": "a personal site for whatever",
-		"url": "https://augustaquarium.neocities.org/",
-		"owner": "radioheadfan34@gmail.com"
-	},
-	
-	{
-		"name": "Kursed",
-		"slug": "Kursed",
-		"about": "A homepage with links to my emo sites",
-		"url": "https://kurse982.neocities.org/",
-		"owner": "ggsmoovplaz@gmail.com"
-	},
-	
-	{
-		"name": "Uranian Dog",
-		"slug": "euclids-exception",
-		"about": "hey did you guys know johannes kepler might've murdered tycho brahe? site for space science, various horrors, and personal introspection",
-		"url": "https://euclids-exception.neocities.org/",
-		"owner": "neutronelectronnand@proton.me"
-	},
-	
-	{
-		"name": "HarioGrindset",
-		"slug": "hariogrindset",
-		"about": "Personal site, I'll talk about coding, hacking, chess, coffee and a rant here and there.",
-		"url": "https://hariogrindset.com/",
-		"owner": "hariogrindset@tutamail.com"
-	},
-	
-	{
-		"name": "Spirits on Sight City!",
-		"slug": "SpiritsOnSight",
-		"about": "An arg centered around a mysterious lost episode of a ghost hunting show!",
-		"url": "https://spiritsonsightcity.neocities.org/",
-		"owner": "https://neocities.org/site/spiritsonsightcity"
-	},
-	
-	{
-		"name": "WraithGlade",
-		"slug": "WraithGlade",
-		"about": "ex-AAA game dev, creative generalist, nature lover, author",
-		"url": "https://wraithglade.com/",
-		"owner": "https://wraithglade.com/contact_info"
-	},
-	
-	{
-		"name": "wrap",
-		"slug": "wrap",
-		"about": "wrap's biolink site",
-		"url": "https://wrap.neocities.org/",
-		"owner": "https://spacehey.com/bulimia"
-	},
-	
-	{
-		"name": "hydromaniac",
-		"slug": "hydromaniac",
-		"about": "hydro's heart shaped box",
-		"url": "https://hydromaniac.neocities.org/",
-		"owner": "https://spacehey.com/hydromaniac"
-	},
-
-	{
-		"name": "Ectobeing",
-		"slug": "ectobeing",
-		"about": "Personal and creative site of a person who loves the supernatural and space.",
-		"url": "https://ectobeing.neocities.org/",
-		"owner": "ectobeing@pm.me"
+{
+	"name": "Alberto Prado",
+	"slug": "alprado",
+	"about": "A personal space that keeps me sane from complexity",
+	"url": "https://alprado.com/",
+	"owner": "luis@alprado.com"
 },
 	
-	{
-		"name": "redredsunabove",
-		"slug": "redsun",
-		"about": "COWBOYS! VAMPIRES! BETRAYAL and LOVE! And, most importantly, STORIES, my dear fair-weather friends!",
-		"url": "https://redredsunabove.neocities.org",
-		"owner": "https://celestedoesarttm.tumblr.com/ask"
-	},
+{
+	"name": "El Taller De Overns",
+	"slug": "eltallerdeoverns",
+	"about": "un blog sobre mi y mis gustos",
+	"url": "https://overnsworkshop.neocities.org/",
+	"owner": "https://neocities.org/site/overnsworkshop"
+},
 	
-	{
-		"name": "paulBoxman",
-		"slug": "paulBoxman",
-		"about": "ABANDON FLESH - a personal page for games, writing, webcomics",
-		"url": "https://paulboxman.neocities.org/",
-		"owner": "https://neocities.org/site/paulboxman"
-	},
-	
-	{
-		"name": "ouija bored",
-		"slug": "ouijabored",
-		"about": "the musings of a twenty-something humanoid girl-creature",
-		"url": "https://ouija-bored.neocities.org",
-		"owner": "https://neocities.org/site/ouija-bored"
-	},
-	
-	{
-		"name": "The HedgeWytch",
-		"slug": "hedgewytch",
-		"about": "A journey into the world of Traditional Witchcraft as experienced by a practicing Hedge Witch.",
-		"url": "https://hedgewytchery.com/about/links/",
-		"owner": "https://neocities.org/site/hedgewytchery"
-	},
-	
-	{
-		"name": "benitengu",
-		"slug": "benitengu",
-		"about": "Wizard posting musings about witchcraft, paganism, and my personal life.",
-		"url": "https://benitengu.neocities.org/",
-		"owner": "https://neocities.org/site/benitengu"
-	},
-	
-	{
-		"name": "three a.m. ennui",
-		"slug": "ennui",
-		"about": "a personal page, my ennui made me do it",
-		"url": "https://3amennui.neocities.org/",
-		"owner": "https://neocities.org/site/3amennui"
-	},
-	
-	{
-		"name": "fragmentandreflect",
-		"slug": "fringe",
-		"about": "witchcraft, grassroots activism, recovery and underground music",
-		"url": "https://fragmentandreflect.art/"
-	},
-	
-	{
-		"name": "Sleepy Circus",
-		"slug": "SleepyCalaban",
-		"about": "Personal site as a box for my trinkets. >:3",
-		"url": "https://sleepycircus.neocities.org/",
-		"owner": "https://neocities.org/site/sleepycircus"
-	},
-	
-	{
-		"name": "MossyPawprints",
-		"slug": "mossypawprints",
-		"about": "dark corner, where I share my experiences, drawings, dogs, and passions with a touch of fantasy and horror.",
-		"url": "https://mossypawprints.neocities.org/",
-		"owner": "https://neocities.org/site/mossypawprints"
-	},
-	
-	{
-		"name": "EVIL FUCKING WEBSITE",
-		"slug": "evilweb",
-		"about": "EVIL WIZARD NAMED T RESIDES IN THEIR EVIL FORTRESS OF MAGIC AND WONDER AND VARIOUS GAY THINGS. also every page is a different aesthetic.",
-		"url": "https://t-hates-you.neocities.org/",
-		"owner": "https://neocities.org/site/t-hates-you"
-	},
-	
-	{
-		"name": "KAIDANworld",
-		"slug": "KAIDANworld",
-		"about": "Short Japanese horror stories translated to English",
-		"url": "https://kaidanworld.neocities.org/",
-		"owner": "https://neocities.org/site/kaidanworld"
-	},
-	
-	{
-		"name": "blopswebsite",
-		"slug": "blopswebsite",
-		"url": "https://blopswebsite.neocities.org"
-	},
+{
+	"name": "Venus in Foxfurs",
+	"slug": "venusinfoxfurs",
+	"about": "a silly personal site and works compendium!",
+	"url": "https://venusinfoxfurs.neocities.org/",
+	"owner": "a3s3u3ra@gmail.com"
+},
 
-	{
-		"name": "freakysunshine",
-		"slug": "freaksunniez",
-		"url": "https://freakysunshine.neocities.org/mainpage",
-		"owner": "https://neocities.org/site/freakysunshine"
-	},
-
-	{
-		"name": "cerealandchoccymilk",
-		"slug": "choccy",
-		"about": "A Japanese↔︎English trans(gender)lator, and a collector of various items. Peace and love in world forever",
-		"url": "https://cerealandchoccymilk.neocities.org/",
-		"owner": "https://neocities.org/site/cerealandchoccymilk"
-	},
-
-	{
-		"name": "cyberfangz",
-		"slug": "cfangz",
-		"url": "https://cyberfangz.neocities.org/home",
-		"owner": "https://neocities.org/site/cyberfangz"
-	},
-
-	{
-		"name": "Fals Fiction",
-		"slug": "afals",
-		"url": "https://falsfiction.neocities.org/",
-		"owner": "https://neocities.org/site/falsfiction"
-	},
-
-	{
-		"name": "xx-starbrite-xx",
-		"slug": "starbrite",
-		"url": "https://xx-starbrite-xx.neocities.org/",
-		"owner": "https://neocities.org/site/xx-starbrite-xx"
-	},
-
-	{
-		"name": "FRESHFLESH",
-		"slug": "freshflesh",
-		"url": "https://freshflesh.neocities.org/",
-		"owner": "https://neocities.org/site/freshflesh"
-	},
-
-	{
-		"name": "suntooth",
-		"slug": "suntooth",
-		"url": "https://suntooth.online/webrings",
-		"owner": "https://neocities.org/site/suntooth"
-	},
+{
+	"name": "The Honey Pot",
+	"slug": "honeypot",
+	"about": "A personal site that talks about software development, cooking, and gets nostalgic about games",
+	"url": "https://thehoneypot.neocities.org/",
+	"owner": "https://neocities.org/site/thehoneypot"
+},
 	
-	{
-		"name": "myrdin",
-		"slug": "myrdin",
-		"about": "A personal website developed by a linguistics student exploring the internet.",
-		"url": "https://myrdin.is-a.dev/projects/blinkies-and-webring/",
-		"owner": "https://myrdin.is-a.dev/"
-	},
+{
+	"name": "augustaquarium",
+	"slug": "augustaquarium",
+	"about": "a personal site for whatever",
+	"url": "https://augustaquarium.neocities.org/",
+	"owner": "radioheadfan34@gmail.com"
+},
+	
+{
+	"name": "Kursed",
+	"slug": "Kursed",
+	"about": "A homepage with links to my emo sites",
+	"url": "https://kurse982.neocities.org/",
+	"owner": "ggsmoovplaz@gmail.com"
+},
+	
+{
+	"name": "Uranian Dog",
+	"slug": "euclids-exception",
+	"about": "hey did you guys know johannes kepler might've murdered tycho brahe? site for space science, various horrors, and personal introspection",
+	"url": "https://euclids-exception.neocities.org/",
+	"owner": "neutronelectronnand@proton.me"
+},
+	
+{
+	"name": "HarioGrindset",
+	"slug": "hariogrindset",
+	"about": "Personal site, I'll talk about coding, hacking, chess, coffee and a rant here and there.",
+	"url": "https://hariogrindset.com/",
+	"owner": "hariogrindset@tutamail.com"
+},
+	
+{
+	"name": "Spirits on Sight City!",
+	"slug": "SpiritsOnSight",
+	"about": "An arg centered around a mysterious lost episode of a ghost hunting show!",
+	"url": "https://spiritsonsightcity.neocities.org/",
+	"owner": "https://neocities.org/site/spiritsonsightcity"
+},
+	
+{
+	"name": "WraithGlade",
+	"slug": "WraithGlade",
+	"about": "ex-AAA game dev, creative generalist, nature lover, author",
+	"url": "https://wraithglade.com/",
+	"owner": "https://wraithglade.com/contact_info"
+},
+	
+{
+	"name": "wrap",
+	"slug": "wrap",
+	"about": "wrap's biolink site",
+	"url": "https://wrap.neocities.org/",
+	"owner": "https://spacehey.com/bulimia"
+},
+	
+{
+	"name": "hydromaniac",
+	"slug": "hydromaniac",
+	"about": "hydro's heart shaped box",
+	"url": "https://hydromaniac.neocities.org/",
+	"owner": "https://spacehey.com/hydromaniac"
+},
 
-	{
-		"name": "gleefulpebble",
-		"slug": "gleefulpebble",
-		"url": "https://gleefulpebble.neocities.org/",
-		"owner": "https://neocities.org/site/gleefulpebble"
-	},
+{
+	"name": "Ectobeing",
+	"slug": "ectobeing",
+	"about": "Personal and creative site of a person who loves the supernatural and space.",
+	"url": "https://ectobeing.neocities.org/",
+	"owner": "ectobeing@pm.me"
+},
+	
+{
+	"name": "redredsunabove",
+	"slug": "redsun",
+	"about": "COWBOYS! VAMPIRES! BETRAYAL and LOVE! And, most importantly, STORIES, my dear fair-weather friends!",
+	"url": "https://redredsunabove.neocities.org",
+	"owner": "https://celestedoesarttm.tumblr.com/ask"
+},
+	
+{
+	"name": "paulBoxman",
+	"slug": "paulBoxman",
+	"about": "ABANDON FLESH - a personal page for games, writing, webcomics",
+	"url": "https://paulboxman.neocities.org/",
+	"owner": "https://neocities.org/site/paulboxman"
+},
+	
+{
+	"name": "ouija bored",
+	"slug": "ouijabored",
+	"about": "the musings of a twenty-something humanoid girl-creature",
+	"url": "https://ouija-bored.neocities.org",
+	"owner": "https://neocities.org/site/ouija-bored"
+},
+	
+{
+	"name": "The HedgeWytch",
+	"slug": "hedgewytch",
+	"about": "A journey into the world of Traditional Witchcraft as experienced by a practicing Hedge Witch.",
+	"url": "https://hedgewytchery.com/about/links/",
+	"owner": "https://neocities.org/site/hedgewytchery"
+},
+	
+{
+	"name": "benitengu",
+	"slug": "benitengu",
+	"about": "Wizard posting musings about witchcraft, paganism, and my personal life.",
+	"url": "https://benitengu.neocities.org/",
+	"owner": "https://neocities.org/site/benitengu"
+},
+	
+{
+	"name": "three a.m. ennui",
+	"slug": "ennui",
+	"about": "a personal page, my ennui made me do it",
+	"url": "https://3amennui.neocities.org/",
+	"owner": "https://neocities.org/site/3amennui"
+},
+	
+{
+	"name": "fragmentandreflect",
+	"slug": "fringe",
+	"about": "witchcraft, grassroots activism, recovery and underground music",
+	"url": "https://fragmentandreflect.art/"
+},
+	
+{
+	"name": "Sleepy Circus",
+	"slug": "SleepyCalaban",
+	"about": "Personal site as a box for my trinkets. >:3",
+	"url": "https://sleepycircus.neocities.org/",
+	"owner": "https://neocities.org/site/sleepycircus"
+},
+	
+{
+	"name": "MossyPawprints",
+	"slug": "mossypawprints",
+	"about": "dark corner, where I share my experiences, drawings, dogs, and passions with a touch of fantasy and horror.",
+	"url": "https://mossypawprints.neocities.org/",
+	"owner": "https://neocities.org/site/mossypawprints"
+},
+	
+{
+	"name": "EVIL FUCKING WEBSITE",
+	"slug": "evilweb",
+	"about": "EVIL WIZARD NAMED T RESIDES IN THEIR EVIL FORTRESS OF MAGIC AND WONDER AND VARIOUS GAY THINGS. also every page is a different aesthetic.",
+	"url": "https://t-hates-you.neocities.org/",
+	"owner": "https://neocities.org/site/t-hates-you"
+},
+	
+{
+	"name": "KAIDANworld",
+	"slug": "KAIDANworld",
+	"about": "Short Japanese horror stories translated to English",
+	"url": "https://kaidanworld.neocities.org/",
+	"owner": "https://neocities.org/site/kaidanworld"
+},
+	
+{
+	"name": "blopswebsite",
+	"slug": "blopswebsite",
+	"url": "https://blopswebsite.neocities.org"
+},
 
-	{
-		"name": "BUSTRR",
-		"slug": "BUSTRR",
-		"url": "https://buster.nekoweb.org/"
-	},
+{
+	"name": "freakysunshine",
+	"slug": "freaksunniez",
+	"url": "https://freakysunshine.neocities.org/mainpage",
+	"owner": "https://neocities.org/site/freakysunshine"
+},
 
-	{
+{
+	"name": "cerealandchoccymilk",
+	"slug": "choccy",
+	"about": "A Japanese↔︎English trans(gender)lator, and a collector of various items. Peace and love in world forever",
+	"url": "https://cerealandchoccymilk.neocities.org/",
+	"owner": "https://neocities.org/site/cerealandchoccymilk"
+},
+
+{
+	"name": "cyberfangz",
+	"slug": "cfangz",
+	"url": "https://cyberfangz.neocities.org/home",
+	"owner": "https://neocities.org/site/cyberfangz"
+},
+
+{
+	"name": "Fals Fiction",
+	"slug": "afals",
+	"url": "https://falsfiction.neocities.org/",
+	"owner": "https://neocities.org/site/falsfiction"
+},
+
+{
+	"name": "xx-starbrite-xx",
+	"slug": "starbrite",
+	"url": "https://xx-starbrite-xx.neocities.org/",
+	"owner": "https://neocities.org/site/xx-starbrite-xx"
+},
+
+{
+	"name": "FRESHFLESH",
+	"slug": "freshflesh",
+	"url": "https://freshflesh.neocities.org/",
+	"owner": "https://neocities.org/site/freshflesh"
+},
+
+{
+	"name": "TheHolyTachanka",
+	"slug": "tht",
+	"about": "A personal blog",
+	"url": "https://theholytachanka.com",
+	"owner": "https://theholytachanka.com"
+},
+
+{
+	"name": "suntooth",
+	"slug": "suntooth",
+	"url": "https://suntooth.online/webrings",
+	"owner": "https://neocities.org/site/suntooth"
+},
+	
+{
+	"name": "myrdin",
+	"slug": "myrdin",
+	"about": "A personal website developed by a linguistics student exploring the internet.",
+	"url": "https://myrdin.is-a.dev/projects/blinkies-and-webring/",
+	"owner": "https://myrdin.is-a.dev/"
+},
+
+{
+	"name": "gleefulpebble",
+	"slug": "gleefulpebble",
+	"url": "https://gleefulpebble.neocities.org/home",
+	"owner": "https://neocities.org/site/gleefulpebble"
+},
+
+{
+	"name": "BUSTRR",
+	"slug": "BUSTRR",
+	"url": "https://buster.nekoweb.org/"
+},
+
+{		
+	"name": "nyght",
+	"slug": "nyght",
+	"url": "https://nyght.neocities.org/",
+	"owner": "https://neocities.org/site/nyght"
+},
+
+{
 		
-		"name": "nyght",
-		"slug": "nyght",
-		"url": "https://nyght.neocities.org/",
-		"owner": "https://neocities.org/site/nyght"
-	},
+	"name": "TalesFromTheStars",
+	"slug": "TalesFromTheStars",
+	"url": "https://talesfromthestars.neocities.org/",
+	"owner": "https://neocities.org/site/talesfromthestars"
+},
 
-	{
-		
-		"name": "TalesFromTheStars",
-		"slug": "TalesFromTheStars",
-		"url": "https://talesfromthestars.neocities.org/",
-		"owner": "https://neocities.org/site/talesfromthestars"
-	},
+{		
+	"name": "nondmo",
+	"slug": "nondmo",
+	"url": "https://nondmo.neocities.org/home",
+	"owner": "https://neocities.org/site/nondmo"
+},
 
-	{		
-		"name": "nondmo",
-		"slug": "nondmo",
-		"url": "https://nondmo.neocities.org/home",
-		"owner": "https://neocities.org/site/nondmo"
-	},
+{		
+	"name": "Duskrat",
+	"slug": "Dusk",
+	"url": "https://duskrat.neocities.org/",
+	"owner": "https://neocities.org/site/duskrat"
+},
+  
+{
+        "name": "Sectorfive",
+        "slug": "sectorfive",
+        "about": "Sectorfive.win is my personal space where I share projects, blog posts, and things that I find Interesting.",
+        "url": "https://sectorfive.win/",
+        "owner": "contact@sectorfive.win"
+},
+	
+{		
+	"name": "Caminus",
+	"slug": "caminus",
+	"url": "https://caminus.neocities.org/",
+	"owner": "https://neocities.org/site/caminus"
+},
 
-	{		
-		"name": "Duskrat",
-		"slug": "Dusk",
-		"url": "https://duskrat.neocities.org/",
-		"owner": "https://neocities.org/site/duskrat"
-	}
+{		
+	"name": "dykefag",
+	"slug": "dykefag",
+	"about": "list of trans resources, game recommendations, music, and some buttons.",
+	"url": "https://dykefag.com/",
+	"owner": "website@dykefag.com"
+},
 
+{		
+	"name": "lobolab",
+	"slug": "lobolab",
+	"url": "https://lobolab.neocities.org/links",
+	"owner": "https://neocities.org/site/lobolab"
+},
+
+{		
+	"name": "ThePersonUWereB4",
+	"slug": "ThePersonUWereB4",
+	"url": "https://thepersonyouwerebefore.neocities.org/",
+	"owner": "https://neocities.org/site/thepersonyouwerebefore"
+},
+
+{		
+	"name": "Draggian Universe",
+	"slug": "draggian",
+	"about": "weird emo snake demon guy on the computer",
+	"url": "https://draggianuniverse.neocities.org/",
+	"owner": "https://neocities.org/site/draggianuniverse"
+},
+
+
+{		
+	"name": "ORLANDO",
+	"slug": "ORLANDO",
+	"url": "https://orlandoscoffee.neocities.org/",
+	"owner": "https://neocities.org/site/orlandoscoffee"
+},
+
+{		
+	"name": "Ghosttown",
+	"slug": "Ghosttown",
+	"about": "A personal site for art, hobbies, blogging or whatever interests me",
+	"url": "https://ghostz.neocities.org/home",
+	"owner": "https://neocities.org/site/ghostz"
+},
+
+{		
+	"name": "bluemiaou",
+	"slug": "bluemiaou",
+	"about": "Full of rainbows, cats, computers and GIFs. Contains handmade graphics, shrines dedicated to my interests and more!",
+	"url": "https://blue-miaou.neocities.org/home",
+	"owner": "https://neocities.org/site/blue-miaou"
+},
+
+{		
+	"name": "ducky",
+	"slug": "ducky",
+	"url": "https://duckyducky.neocities.org/",
+	"owner": "https://neocities.org/site/duckyducky"
+},
+
+{		
+	"name": "Booker Berry",
+	"slug": "B0o",
+	"url": "https://bookerberry.neocities.org/",
+	"owner": "https://neocities.org/site/bookerberry"
+},
+
+{
+	"name": "The Olive Jar",
+	"slug": "olivejar",
+	"about": "Personal site of an illustrator with a love of BattleTech, music, and a bunch of other eclectic stuff.",
+	"url": "https://theolivejar.neocities.org/",
+	"owner": "https://neocities.org/site/theolivejar"
+},
+
+{
+	"name": "SlayerSalem",
+	"slug": "SlayerSalem",
+	"about": "I don't really have a description",
+	"url": "https://slayersalem.neocities.org/",
+	"owner": "https://neocities.org/site/slayersalem"
+}
 ]
