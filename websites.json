@@ -97,7 +97,7 @@
 {
 	"name": "Elbowthief",
 	"slug": "elbowthief",
-	"url": "https://elbowthief.neocities.org/",
+	"url": "https://elbowthief.neocities.org/landingpage",
 	"owner": "https://neocities.org/site/elbowthief/"
 },
 
@@ -200,7 +200,7 @@
 
 {
 	"name": "The Cabinet of Curiosities",
-	"slug": "curiosity_cabinet",
+	"slug": "Curiosity_Cabinet",
 	"about": "I'm an author and aspiring novelist, my work focusing on the horrifying, the taboo, and all things macabre!",
 	"url": "https://slysable.neocities.org/isoabout",
 	"owner": "https://neocities.org/site/slysable/"
@@ -483,14 +483,6 @@
 	"rss": "https://leilukin.com/feed.xml",
 	"owner": "contact@leilukin.com"
 },
-  
-{
-	"name": "Alberto Prado",
-	"slug": "alprado",
-	"about": "A personal space that keeps me sane from complexity",
-	"url": "https://alprado.com/",
-	"owner": "luis@alprado.com"
-},
 	
 {
 	"name": "El Taller De Overns",
@@ -576,7 +568,7 @@
 	"name": "hydromaniac",
 	"slug": "hydromaniac",
 	"about": "hydro's heart shaped box",
-	"url": "https://hydromaniac.neocities.org/",
+	"url": "https://hydromaniac.neocities.org/mainsite",
 	"owner": "https://spacehey.com/hydromaniac"
 },
 
@@ -867,7 +859,7 @@
 {		
 	"name": "Booker Berry",
 	"slug": "B0o",
-	"url": "https://bookerberry.neocities.org/",
+	"url": "https://bookerberry.neocities.org/Links",
 	"owner": "https://neocities.org/site/bookerberry"
 },
 
