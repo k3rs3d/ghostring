@@ -893,5 +893,14 @@
 	"about": "The personal site of an amateur writer.",
 	"url": "https://eldritchaule.neocities.org",
 	"owner": "https://neocities.org/site/eldritchaule"
+},
+
+{
+        "name": "elswhere",
+        "slug": "elswhere",
+        "about": "elsie's internet closet",
+        "url": "https://elswhere.neocities.org/",
+        "owner": "https://neocities.org/site/elswhere"
 }
+
 ]
