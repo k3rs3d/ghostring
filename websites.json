@@ -893,5 +893,14 @@
 	"about": "The personal site of an amateur writer.",
 	"url": "https://eldritchaule.neocities.org",
 	"owner": "https://neocities.org/site/eldritchaule"
+},
+	
+{
+        "name": "Zachary Kai",
+        "slug": "zacharykai",
+        "about": "I'm an offbeat queer, zinester, and space fantasy writer.",
+        "url": "https://zacharykai.net/",
+        "rss": "https://zacharykai.net/assets/rss.xml",
+        "owner": "hi@zacharykai.net"
 }
 ]
