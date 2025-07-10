@@ -901,6 +901,14 @@
         "about": "elsie's internet closet",
         "url": "https://elswhere.neocities.org/",
         "owner": "https://neocities.org/site/elswhere"
+},
+  
+{
+        "name": "Zachary Kai",
+        "slug": "zacharykai",
+        "about": "I'm an offbeat queer, zinester, and space fantasy writer.",
+        "url": "https://zacharykai.net/",
+        "rss": "https://zacharykai.net/assets/rss.xml",
+        "owner": "hi@zacharykai.net"
 }
-
 ]
