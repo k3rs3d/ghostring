@@ -894,7 +894,15 @@
 	"url": "https://eldritchaule.neocities.org",
 	"owner": "https://neocities.org/site/eldritchaule"
 },
-	
+
+{
+        "name": "elswhere",
+        "slug": "elswhere",
+        "about": "elsie's internet closet",
+        "url": "https://elswhere.neocities.org/",
+        "owner": "https://neocities.org/site/elswhere"
+},
+  
 {
         "name": "Zachary Kai",
         "slug": "zacharykai",
