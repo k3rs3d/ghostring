@@ -925,5 +925,13 @@
         "slug": "samarav",
         "url": "https://samarav.neocities.org",
         "owner": "https://neocities.org/site/samarav"
+},
+
+{
+        "name": "darkmomokocore",
+        "slug": "darkmomokocore",
+	"about": "liters of html vomit",
+        "url": "https://darkmomokocore.neocities.org/links",
+        "owner": "https://neocities.org/site/darkmomokocore"
 }
 ]
