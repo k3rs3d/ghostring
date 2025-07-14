@@ -910,5 +910,13 @@
         "url": "https://zacharykai.net/",
         "rss": "https://zacharykai.net/assets/rss.xml",
         "owner": "hi@zacharykai.net"
+},
+
+{
+        "name": "Len",
+        "slug": "lenmonster",
+        "about": "This is a personal site a la Geocities circa 2000, some stuff about me and also a place to display things I've had saved forever",
+        "url": "https://len.monster/",
+        "owner": "https://len.monster/"
 }
 ]
