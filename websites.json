@@ -885,5 +885,38 @@
 	"about": "Death Worship and Spirit Divination",
 	"url": "https://westgatenecromantics.neocities.org/",
 	"owner": "https://neocities.org/site/westgatenecromantics"
+},
+
+{
+	"name": "Eldritch Aule",
+	"slug": "eldritch",
+	"about": "The personal site of an amateur writer.",
+	"url": "https://eldritchaule.neocities.org",
+	"owner": "https://neocities.org/site/eldritchaule"
+},
+
+{
+        "name": "elswhere",
+        "slug": "elswhere",
+        "about": "elsie's internet closet",
+        "url": "https://elswhere.neocities.org/",
+        "owner": "https://neocities.org/site/elswhere"
+},
+  
+{
+        "name": "Zachary Kai",
+        "slug": "zacharykai",
+        "about": "I'm an offbeat queer, zinester, and space fantasy writer.",
+        "url": "https://zacharykai.net/",
+        "rss": "https://zacharykai.net/assets/rss.xml",
+        "owner": "hi@zacharykai.net"
+},
+
+{
+        "name": "Len",
+        "slug": "lenmonster",
+        "about": "This is a personal site a la Geocities circa 2000, some stuff about me and also a place to display things I've had saved forever",
+        "url": "https://len.monster/",
+        "owner": "https://len.monster/"
 }
 ]
