@@ -918,5 +918,35 @@
         "about": "This is a personal site a la Geocities circa 2000, some stuff about me and also a place to display things I've had saved forever",
         "url": "https://len.monster/",
         "owner": "https://len.monster/"
+},
+
+{
+        "name": "samarav",
+        "slug": "samarav",
+        "url": "https://samarav.neocities.org",
+        "owner": "https://neocities.org/site/samarav"
+},
+
+{
+        "name": "darkmomokocore",
+        "slug": "darkmomokocore",
+	"about": "liters of html vomit",
+        "url": "https://darkmomokocore.neocities.org/links",
+        "owner": "https://neocities.org/site/darkmomokocore"
+},
+
+{
+        "name": "House of Doll Bones",
+        "slug": "DOLLBONES",
+        "url": "https://houseofdollbones.neocities.org/",
+        "owner": "https://neocities.org/site/houseofdollbones"
+},
+
+{
+        "name": "Six-Letter-Notion",
+        "slug": "NOTION",
+	"about": "project log of a professional theater ghost",
+        "url": "https://six-letter-notion.neocities.org/",
+        "owner": "https://neocities.org/site/six-letter-notion"
 }
 ]
