@@ -918,5 +918,12 @@
         "about": "This is a personal site a la Geocities circa 2000, some stuff about me and also a place to display things I've had saved forever",
         "url": "https://len.monster/",
         "owner": "https://len.monster/"
+},
+
+{
+        "name": "samarav",
+        "slug": "samarav",
+        "url": "https://samarav.neocities.org",
+        "owner": "https://neocities.org/site/samarav"
 }
 ]
