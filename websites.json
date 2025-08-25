@@ -970,5 +970,20 @@
         "slug": "sallyface",
         "url": "https://datoxicwaltz.neocities.org/",
         "owner": "https://neocities.org/site/datoxicwaltz"
+},
+	
+{
+        "name": "PANGS",
+        "slug": "pangs",
+		"about": "Digital dalliances of a self-proclaimed cult classic and sleazebag superstar.",
+        "url": "https://pangs.love/",
+        "owner": "https://pangs.love/links.html"
+},
+
+{
+        "name": "Wizard Hell",
+        "slug": "wizardhell",
+        "url": "https://wizardhell.neocities.org/FunZone",
+        "owner": "https://neocities.org/site/wizardhell"
 }
 ]
