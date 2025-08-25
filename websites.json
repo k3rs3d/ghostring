@@ -985,5 +985,12 @@
         "slug": "wizardhell",
         "url": "https://wizardhell.neocities.org/FunZone",
         "owner": "https://neocities.org/site/wizardhell"
+},
+
+{
+        "name": "Church of Midnight",
+        "slug": "midnight",
+        "url": "https://churchofmidnight.neocities.org/pages/main",
+        "owner": "https://neocities.org/site/churchofmidnight"
 }
 ]
