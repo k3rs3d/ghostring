@@ -1000,5 +1000,12 @@
 		"about": "A personal writing website featuring creative projects and reviews of things I watch or read.",
         "url": "https://exceptthemagician.neocities.org/",
         "owner": "https://neocities.org/site/exceptthemagician"
+},
+
+{
+        "name": "THE VAMPIRE WEB",
+        "slug": "blood-moon",
+        "url": "https://blood-moon.nekoweb.org/",
+        "owner": "https://neocities.org/site/treefungusxx"
 }
 ]
