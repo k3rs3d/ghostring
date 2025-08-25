@@ -955,5 +955,13 @@
         "slug": "DKAE",
         "url": "https://destkitaerohym.neocities.org/",
         "owner": "https://neocities.org/site/destkitaerohym"
+},
+
+{
+        "name": "Kim's Blog",
+        "slug": "kgb",
+		"about": "Rants, art projects and clothes haul from a girl you've never met",
+        "url": "https://kimberlygb.nekoweb.org/",
+        "owner": "https://kimberlygb.neocities.org/contact"
 }
 ]
