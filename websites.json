@@ -992,5 +992,13 @@
         "slug": "midnight",
         "url": "https://churchofmidnight.neocities.org/pages/main",
         "owner": "https://neocities.org/site/churchofmidnight"
+},
+
+{
+        "name": "Except the Magician",
+        "slug": "exceptmagician",
+		"about": "A personal writing website featuring creative projects and reviews of things I watch or read.",
+        "url": "https://exceptthemagician.neocities.org/",
+        "owner": "https://neocities.org/site/exceptthemagician"
 }
 ]
