@@ -1016,4 +1016,13 @@
         "url": "https://joseywails.com/",
         "owner": "https://neocities.org/site/joseywails"
 }
+
+{
+    "name": "Planty",
+    "slug": "planty",
+    "about": "A queer game designer and artist",
+    "url": "https://planty.one/",
+    "rss": "https://planty.one/rss.xml"
+    "owner": "https://planty.one/contact"
+}
 ]
