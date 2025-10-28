@@ -624,8 +624,8 @@
 	"name": "three a.m. ennui",
 	"slug": "ennui",
 	"about": "a personal page, my ennui made me do it",
-	"url": "https://3amennui.neocities.org/",
-	"owner": "https://neocities.org/site/3amennui"
+	"url": "https://ennuicore.neocities.org/",
+	"owner": "https://neocities.org/site/ennuicore"
 },
 	
 {
@@ -956,6 +956,79 @@
 		"about": "freaky website of a perverted fujoshi",
      	"url": "https://napkinonline.nekoweb.org/",
      	"owner": "https://napkinonline.nekoweb.org/"
-	},
+},
 
+{
+        "name": "Dest / Kit / Aero / Elohym",
+        "slug": "DKAE",
+        "url": "https://destkitaerohym.neocities.org/",
+        "owner": "https://neocities.org/site/destkitaerohym"
+},
+
+{
+        "name": "Kim's Blog",
+        "slug": "kgb",
+		"about": "Rants, art projects and clothes haul from a girl you've never met",
+        "url": "https://kimberlygb.nekoweb.org/",
+        "owner": "https://kimberlygb.neocities.org/contact"
+},
+
+{
+        "name": "THE CRYPT",
+        "slug": "sallyface",
+        "url": "https://datoxicwaltz.neocities.org/",
+        "owner": "https://neocities.org/site/datoxicwaltz"
+},
+	
+{
+        "name": "PANGS",
+        "slug": "pangs",
+		"about": "Digital dalliances of a self-proclaimed cult classic and sleazebag superstar.",
+        "url": "https://pangs.love/",
+        "owner": "https://pangs.love/links.html"
+},
+
+{
+        "name": "Wizard Hell",
+        "slug": "wizardhell",
+        "url": "https://wizardhell.neocities.org/FunZone",
+        "owner": "https://neocities.org/site/wizardhell"
+},
+
+{
+        "name": "Church of Midnight",
+        "slug": "midnight",
+        "url": "https://churchofmidnight.neocities.org/pages/main",
+        "owner": "https://neocities.org/site/churchofmidnight"
+},
+
+{
+        "name": "Except the Magician",
+        "slug": "exceptmagician",
+		"about": "A personal writing website featuring creative projects and reviews of things I watch or read.",
+        "url": "https://exceptthemagician.neocities.org/",
+        "owner": "https://neocities.org/site/exceptthemagician"
+},
+
+{
+        "name": "THE VAMPIRE WEB",
+        "slug": "blood-moon",
+        "url": "https://blood-moon.nekoweb.org/",
+        "owner": "https://neocities.org/site/treefungusxx"
+},
+
+{
+        "name": "Josey Wails - Garage Rock From Baltimore",
+        "slug": "joseywails",
+		"about": "Josey makes music for romantics with chipped teeth.",
+        "url": "https://joseywails.com/",
+        "owner": "https://neocities.org/site/joseywails"
+},
+
+{
+        "name": "prigoana.com",
+        "slug": "prigoana",
+        "url": "https://prigoana.com/",
+        "owner": "https://prigoana.com/"
+}
 ]
