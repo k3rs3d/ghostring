@@ -1024,6 +1024,13 @@
         "url": "https://joseywails.com/",
         "owner": "https://neocities.org/site/joseywails"
 },
+	
+{
+        "name": "prigoana.com",
+        "slug": "prigoana",
+        "url": "https://prigoana.com/",
+        "owner": "https://prigoana.com/"
+},
 
 {
 	    "name": "Tipsy's Tent",
@@ -1033,20 +1040,13 @@
 },
 
 {
-        "name": "prigoana.com",
-        "slug": "prigoana",
-        "url": "https://prigoana.com/",
-        "owner": "https://prigoana.com/"
-},
-
-{
         "name": "April's Meowtastic Website",
         "slug": "AMW",
 		"about": "The personal page of a trans girl who's been using GNU/Linux since 2011. I like to share my thoughts, make tutorials, and more!",
         "url": "https://april.nekoweb.org/",
 		"rss": "https://april.nekoweb.org/blog/feed.xml",
         "owner": "https://april.nekoweb.org/socials.html"
-}
+},
 
 {
     "name": "Planty",
