@@ -930,7 +930,7 @@
 {
         "name": "darkmomokocore",
         "slug": "darkmomokocore",
-	"about": "liters of html vomit",
+		"about": "liters of html vomit",
         "url": "https://darkmomokocore.neocities.org/links",
         "owner": "https://neocities.org/site/darkmomokocore"
 },
@@ -1030,5 +1030,14 @@
         "slug": "prigoana",
         "url": "https://prigoana.com/",
         "owner": "https://prigoana.com/"
+},
+
+{
+        "name": "April's Meowtastic Website",
+        "slug": "AMW",
+		"about": "The personal page of a trans girl who's been using GNU/Linux since 2011. I like to share my thoughts, make tutorials, and more!",
+        "url": "https://april.nekoweb.org/",
+		"rss": "https://april.nekoweb.org/blog/feed.xml",
+        "owner": "https://april.nekoweb.org/socials.html"
 }
 ]
