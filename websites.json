@@ -1040,6 +1040,15 @@
 },
 
 {
+    "name": "Planty",
+    "slug": "planty",
+    "about": "A queer game designer and artist",
+    "url": "https://planty.one/",
+    "rss": "https://planty.one/rss.xml"
+    "owner": "https://planty.one/contact"
+},
+
+{
         "name": "April's Meowtastic Website",
         "slug": "AMW",
 		"about": "The personal page of a trans girl who's been using GNU/Linux since 2011. I like to share my thoughts, make tutorials, and more!",
@@ -1049,11 +1058,9 @@
 },
 
 {
-    "name": "Planty",
-    "slug": "planty",
-    "about": "A queer game designer and artist",
-    "url": "https://planty.one/",
-    "rss": "https://planty.one/rss.xml"
-    "owner": "https://planty.one/contact"
+	    "name": "spookysix",
+        "slug": "spookysix",
+        "url": "https://spookysix.neocities.org/",
+        "owner": "https://neocities.org/spookysix"
 }
 ]
