@@ -945,9 +945,17 @@
 {
         "name": "Six-Letter-Notion",
         "slug": "NOTION",
-	"about": "project log of a professional theater ghost",
+		"about": "project log of a professional theater ghost",
         "url": "https://six-letter-notion.neocities.org/",
         "owner": "https://neocities.org/site/six-letter-notion"
+},
+
+{
+		"name": "mickeys site",
+        "slug": "MCR",
+		"about": "freaky website of a perverted fujoshi",
+     	"url": "https://napkinonline.nekoweb.org/",
+     	"owner": "https://napkinonline.nekoweb.org/"
 },
 
 {
