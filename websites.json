@@ -1062,5 +1062,13 @@
         "slug": "spookysix",
         "url": "https://spookysix.neocities.org/",
         "owner": "https://neocities.org/spookysix"
+},
+
+{
+	    "name": "ghostly's cozy corner",
+        "slug": "cozyghostly",
+		"about": "The little corner of the web for a curious ghosts artwork and personal interests. i hope you have a lovely day!",
+        "url": "https://cozyghostly.neocities.org/",
+        "owner": "https://neocities.org/cozyghostly"
 }
 ]
