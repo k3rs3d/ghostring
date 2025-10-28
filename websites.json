@@ -1015,5 +1015,12 @@
 		"about": "Josey makes music for romantics with chipped teeth.",
         "url": "https://joseywails.com/",
         "owner": "https://neocities.org/site/joseywails"
+},
+
+{
+        "name": "prigoana.com",
+        "slug": "prigoana",
+        "url": "https://prigoana.com/",
+        "owner": "https://prigoana.com/"
 }
 ]
