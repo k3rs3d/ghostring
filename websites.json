@@ -1026,6 +1026,13 @@
 },
 
 {
+	    "name": "Tipsy's Tent",
+        "slug": "tipsystent",
+        "url": "https://tipsystent.neocities.org/",
+        "owner": "https://neocities.org/tipsystent"
+},
+
+{
         "name": "prigoana.com",
         "slug": "prigoana",
         "url": "https://prigoana.com/",
