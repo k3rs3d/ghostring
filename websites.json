@@ -1047,4 +1047,13 @@
 		"rss": "https://april.nekoweb.org/blog/feed.xml",
         "owner": "https://april.nekoweb.org/socials.html"
 }
+
+{
+    "name": "Planty",
+    "slug": "planty",
+    "about": "A queer game designer and artist",
+    "url": "https://planty.one/",
+    "rss": "https://planty.one/rss.xml"
+    "owner": "https://planty.one/contact"
+}
 ]
