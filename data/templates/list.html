@@ -9,16 +9,36 @@
     <title>Ghostring</title>
 </head>
 <body>
-    <h1>Ghostring List</h1>
-	Current list of <a href="https://ghostring.neocities.org/">Ghostring</a> members:
-	<br>
-	<a href="https://ghostring.neocities.org/Ghostring.opml">[OPML link]</a>
-	<br><br>
-	<div class="table-wrapper">
-		<table>
-		{{ table_of_sites | safe}}
-		</table>
-	</div>
+<article>
+  <h2 class="spooky-title">Ghostring Sites</h2>
+Current list of <a href="https://ghostring.neocities.org/">Ghostring</a> members:
+<br>
+<a href="https://ghostring.neocities.org/Ghostring.opml">[OPML link]</a>
+<br><br>
+  <ol class="cards">
+    {% for site in sites %}
+    <li class="card{% if site.website.name == featured_site_name %} card--featured{% endif %}">
+    <div class="card__top">
+      <header><h2>
+          {{ site.website.name }}{% if site.website.name == featured_site_name %} 👻{% endif %}
+      </h2></header>
+      <div class="card__links">
+        <a href="{{ site.website.url }}">{{ site.website.url }}</a>
+        {% if site.website.rss %} •
+        <a href="{{ site.website.rss }}">[feed]</a>
+        {% endif %}
+      </div>
+    </div>
+
+      <div class="card__content">
+        <p class="card__meta"><code class="slug">{{ site.website.slug }}</code></p>
+        <p class="card__about">{{ site.website.about }}</p>
+        <p class="card__owner"><strong>Contact:</strong> {{ site.website.owner }}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</article>
 	<br><br>
 	
 	Interested? Do you have a personal website? 
