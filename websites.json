@@ -1070,5 +1070,12 @@
 		"about": "The little corner of the web for a curious ghosts artwork and personal interests. i hope you have a lovely day!",
         "url": "https://cozyghostly.neocities.org/",
         "owner": "https://neocities.org/cozyghostly"
+},
+
+{
+	    "name": "nucky",
+        "slug": "occult",
+        "url": "https://nucky.neocities.org/webrings/",
+        "owner": "https://neocities.org/nucky"
 }
 ]
