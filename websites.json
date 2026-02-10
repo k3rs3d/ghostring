@@ -1084,5 +1084,20 @@
         "about": "dumb ghost cat thing",
         "url": "https://catwraith.com/links/",
         "owner": "contact@catwraith.com"
+},
+{
+        "name": "Nova's Corner",
+        "slug": "cosmicat",
+        "about": "Personal website where I post art and stuff.",
+        "url": "https://pastel-skies.nekoweb.org/",
+        "rss": "https://pastel-skies.nekoweb.org/updates.xml"
+        "owner": "nova-galaxium@proton.me"
+},
+{
+        "name": "Ashe's Epic Site",
+        "slug": "tombstonecat",
+        "about":"Personal website, has a blog.",
+        "url": "https://graveyardpaws.web.fc2.com/",
+        "owner": "xxgraveyardpawsxx@kittymail.com"
 }
 ]
