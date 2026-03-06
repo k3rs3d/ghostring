@@ -1092,5 +1092,10 @@
         "about":"Personal website, has a blog.",
         "url": "https://graveyardpaws.web.fc2.com/",
         "owner": "xxgraveyardpawsxx@kittymail.com"
+},
+{
+        "slug": "ghoulcountry",
+        "url": "https://ghoulcountry.neocities.org/",
+        "owner": "https://neocities.org/site/ghoulcountry"
 }
 ]
