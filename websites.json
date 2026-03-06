@@ -1079,24 +1079,24 @@
         "owner": "contact@catwraith.com"
 },
 {
-        "name": "Nova's Corner",
-        "slug": "cosmicat",
-        "about": "Personal website where I post art and stuff.",
-        "url": "https://pastel-skies.nekoweb.org/",
-        "rss": "https://pastel-skies.nekoweb.org/updates.xml"
-        "owner": "nova-galaxium@proton.me"
+    "name": "Nova's Corner",
+    "slug": "cosmicat",
+    "about": "Personal website where I post art and stuff.",
+    "url": "https://pastel-skies.nekoweb.org/",
+    "rss": "https://pastel-skies.nekoweb.org/updates.xml",
+    "owner": "nova-galaxium@proton.me"
 },
 {
-        "name": "Ashe's Epic Site",
-        "slug": "tombstonecat",
-        "about":"Personal website, has a blog.",
-        "url": "https://graveyardpaws.web.fc2.com/",
-        "owner": "xxgraveyardpawsxx@kittymail.com"
+    "name": "Ashe's Epic Site",
+    "slug": "tombstonecat",
+    "about":"Personal website, has a blog.",
+    "url": "https://graveyardpaws.web.fc2.com/",
+    "owner": "xxgraveyardpawsxx@kittymail.com"
 },
 {
-        "slug": "ghoulcountry",
-        "url": "https://ghoulcountry.neocities.org/",
-        "owner": "https://neocities.org/site/ghoulcountry"
+    "slug": "ghoulcountry",
+    "url": "https://ghoulcountry.neocities.org/",
+	"owner": "https://neocities.org/site/ghoulcountry"
 },
 {
     "slug": "atrickofthelight",
@@ -1112,5 +1112,12 @@
     "slug": "faint",
     "url": "https://faintlymacabre.neocities.org/home",
     "owner": "https://neocities.org/site/faintlymacabre"
+},
+{
+    "slug": "Snakeskin",
+	"about": "A semi-haunted website",
+    "url": "https://snake-skin.neocities.org/ring_around_the_rosies/",
+	"rss": "https://snake-skin.neocities.org/feed.xml",
+    "owner": "https://neocities.org/site/snake-skin"
 }
 ]
