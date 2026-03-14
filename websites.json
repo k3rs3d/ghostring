@@ -1153,6 +1153,13 @@
 {
 	"name": "bête noîre",
     "slug": "betenoire",
-    "url": "https://www.luvan.org/betenoire/",
+    "url": "https://www.luvan.org/betenoire/"
+},
+{
+	"name": "ghostk.id",
+	"description": "Exorcise this!!!",
+    "slug": "ghostkid",
+    "url": "https://ghostk.id/",
+	"owner": "https://ghostk.id/about/#me"
 }
 ]
