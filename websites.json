@@ -1157,15 +1157,10 @@
 },
 {
 	"name": "ghostk.id",
-	"description": "Exorcise this!!!",
+	"about": "Exorcise this!!!",
     "slug": "ghostkid",
     "url": "https://ghostk.id/",
 	"owner": "https://ghostk.id/about/#me"
-},
-{
-    "slug": "howies",
-    "url": "https://howies.neocities.org/",
-	"owner": "https://neocities.org/site/howies"
 },
 {
 	"name": "leif",
