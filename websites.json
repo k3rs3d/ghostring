@@ -1161,5 +1161,22 @@
     "slug": "ghostkid",
     "url": "https://ghostk.id/",
 	"owner": "https://ghostk.id/about/#me"
+},
+{
+    "slug": "howies",
+    "url": "https://howies.neocities.org/",
+	"owner": "https://neocities.org/site/howies"
+},
+{
+	"name": "leif",
+    "slug": "bunny",
+    "url": "https://bunny.cx/",
+	"owner": "https://neocities.org/site/cut"
+},
+{
+	"name": "Rabbitearsblog's Scary Cave",
+    "slug": "rabbitearsblog",
+    "url": "https://rabbitearsblog12.nekoweb.org/home.html",
+	"owner": "https://neocities.org/site/rabbitearsblog"
 }
 ]
