@@ -1179,5 +1179,11 @@
     "slug": "zymurgy",
     "url": "https://www.zymurgy.rip/",
 	"owner": "https://neocities.org/site/zymurgy"
+},
+{
+	"name": "Mono",
+    "slug": "monoart",
+    "url": "https://www.monoart.nekoweb.org/",
+	"owner": "https://nekoweb.org/explore?page=1&sort=lastupd&by=name&q=monoart"
 }
 ]
