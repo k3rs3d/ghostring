@@ -1179,5 +1179,12 @@
     "slug": "zymurgy",
     "url": "https://www.zymurgy.rip/",
 	"owner": "https://neocities.org/site/zymurgy"
+},
+{
+	"name": "Office of Ordinary Hauntings",
+	"slug": "ooh",
+	"about": "Independent research body, est. 1964. Systematic observation of anomalous behavior in ordinary objects.",
+	"url": "https://officeofordinaryhauntings.net/",
+	"owner": "https://officeofordinaryhauntings.net/staff.html"
 }
 ]
